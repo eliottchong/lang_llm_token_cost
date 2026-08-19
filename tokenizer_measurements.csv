@@ -1,0 +1,676 @@
+tokenizer,item_id,category,language,condition,adequacy_score,text,character_count,utf8_byte_count,token_count,characters_per_token,bytes_per_token
+openai-o200k,E01,everyday,english,base,,The child opened the door.,26,26,6,4.333333333333333,4.333333333333333
+openai-o200k,E01,everyday,modern_standard_chinese,base,,孩子打開了門.,7,19,6,1.1666666666666667,3.1666666666666665
+openai-o200k,E01,everyday,classical_chinese,base,,童啟門.,4,10,5,0.8,2.0
+openai-o200k,E01,everyday,classical_latin,base,,Puer ianuam aperuit.,20,20,8,2.5,2.5
+openai-o200k,E01,everyday,attic_greek,base,,Ὁ παῖς τὴν θύραν ἤνοιξε.,24,47,18,1.3333333333333333,2.611111111111111
+openai-o200k,E02,everyday,english,base,,My friend brought fresh bread.,30,30,6,5.0,5.0
+openai-o200k,E02,everyday,modern_standard_chinese,base,,我的朋友帶來了新鮮的麵包.,13,37,13,1.0,2.8461538461538463
+openai-o200k,E02,everyday,classical_chinese,base,,友攜新麵包至.,7,19,9,0.7777777777777778,2.111111111111111
+openai-o200k,E02,everyday,classical_latin,base,,Amicus meus panem recentem attulit.,35,35,10,3.5,3.5
+openai-o200k,E02,everyday,attic_greek,base,,Ὁ φίλος μου ἄρτον πρόσφατον ἤνεγκεν.,36,69,20,1.8,3.45
+openai-o200k,E03,everyday,english,base,,We waited beside the river until sunset.,40,40,8,5.0,5.0
+openai-o200k,E03,everyday,modern_standard_chinese,base,,我們在河邊等到日落.,10,28,10,1.0,2.8
+openai-o200k,E03,everyday,classical_chinese,base,,吾等河畔至日暮.,8,22,9,0.8888888888888888,2.4444444444444446
+openai-o200k,E03,everyday,classical_latin,base,,Ad fluminis ripam usque ad solis occasum exspectavimus.,55,55,18,3.0555555555555554,3.0555555555555554
+openai-o200k,E03,everyday,attic_greek,base,,Παρὰ τῷ ποταμῷ μέχρι δυσμῶν ἡλίου ἐμείναμεν.,44,87,28,1.5714285714285714,3.107142857142857
+openai-o200k,E04,everyday,english,base,,The dog found its ball under the table.,39,39,9,4.333333333333333,4.333333333333333
+openai-o200k,E04,everyday,modern_standard_chinese,base,,狗在桌下找到了自己的球.,12,34,9,1.3333333333333333,3.7777777777777777
+openai-o200k,E04,everyday,classical_chinese,base,,犬於幾下得其球.,8,22,9,0.8888888888888888,2.4444444444444446
+openai-o200k,E04,everyday,classical_latin,base,,Canis pilam suam sub mensa invenit.,35,35,12,2.9166666666666665,2.9166666666666665
+openai-o200k,E04,everyday,attic_greek,base,,Ὁ κύων τὴν ἑαυτοῦ σφαῖραν ὑπὸ τῇ τραπέζῃ εὗρεν.,47,95,38,1.236842105263158,2.5
+openai-o200k,E05,everyday,english,base,,She wrote a short letter to her sister.,39,39,9,4.333333333333333,4.333333333333333
+openai-o200k,E05,everyday,modern_standard_chinese,base,,她給姐姐寫了一封短信.,11,31,8,1.375,3.875
+openai-o200k,E05,everyday,classical_chinese,base,,她書短牘與姊.,7,19,9,0.7777777777777778,2.111111111111111
+openai-o200k,E05,everyday,classical_latin,base,,Ea sorori suae epistulam brevem scripsit.,41,41,14,2.9285714285714284,2.9285714285714284
+openai-o200k,E05,everyday,attic_greek,base,,Αὕτη γράμμα βραχὺ τῇ ἀδελφῇ ἔγραψεν.,36,72,28,1.2857142857142858,2.5714285714285716
+openai-o200k,E06,everyday,english,base,,Rain began shortly after lunch.,31,31,6,5.166666666666667,5.166666666666667
+openai-o200k,E06,everyday,modern_standard_chinese,base,,午飯後不久開始下雨.,10,28,9,1.1111111111111112,3.111111111111111
+openai-o200k,E06,everyday,classical_chinese,base,,食後未幾雨作.,7,19,8,0.875,2.375
+openai-o200k,E06,everyday,classical_latin,base,,Paulo post prandium pluvia coepit.,34,34,13,2.6153846153846154,2.6153846153846154
+openai-o200k,E06,everyday,attic_greek,base,,Μετὰ τὸ ἄριστον ὀλίγῳ ὕστερον ὑετὸς ἤρξατο.,43,88,37,1.162162162162162,2.3783783783783785
+openai-o200k,E07,everyday,english,base,,The old merchant counted the coins twice.,41,41,8,5.125,5.125
+openai-o200k,E07,everyday,modern_standard_chinese,base,,老商人數了兩次錢幣.,10,28,12,0.8333333333333334,2.3333333333333335
+openai-o200k,E07,everyday,classical_chinese,base,,老賈再數其錢.,7,19,9,0.7777777777777778,2.111111111111111
+openai-o200k,E07,everyday,classical_latin,base,,Mercator senex nummos bis numeravit.,36,36,11,3.272727272727273,3.272727272727273
+openai-o200k,E07,everyday,attic_greek,base,,Ὁ γέρων ἔμπορος τὰ νομίσματα δίς ἠρίθμησεν.,43,83,28,1.5357142857142858,2.9642857142857144
+openai-o200k,E08,everyday,english,base,,They planted three trees behind the house.,42,42,8,5.25,5.25
+openai-o200k,E08,everyday,modern_standard_chinese,base,,他們在屋後種了三棵樹.,11,31,13,0.8461538461538461,2.3846153846153846
+openai-o200k,E08,everyday,classical_chinese,base,,眾植三樹於屋後.,8,22,10,0.8,2.2
+openai-o200k,E08,everyday,classical_latin,base,,Tres arbores post domum plantaverunt.,37,37,11,3.3636363636363638,3.3636363636363638
+openai-o200k,E08,everyday,attic_greek,base,,Τρία δένδρα ὄπισθεν τῆς οἰκίας ἐφύτευσαν.,41,80,26,1.5769230769230769,3.076923076923077
+openai-o200k,E09,everyday,english,base,,I forgot the key at home.,25,25,7,3.5714285714285716,3.5714285714285716
+openai-o200k,E09,everyday,modern_standard_chinese,base,,我把鑰匙忘在家裡了.,10,28,12,0.8333333333333334,2.3333333333333335
+openai-o200k,E09,everyday,classical_chinese,base,,吾遺鑰於家.,6,16,8,0.75,2.0
+openai-o200k,E09,everyday,classical_latin,base,,Clavem domi oblitus sum.,24,24,9,2.6666666666666665,2.6666666666666665
+openai-o200k,E09,everyday,attic_greek,base,,Ἐπελαθόμην τῆς κλειδὸς οἴκοι.,29,58,23,1.2608695652173914,2.5217391304347827
+openai-o200k,E10,everyday,english,base,,The teacher praised the careful student.,40,40,7,5.714285714285714,5.714285714285714
+openai-o200k,E10,everyday,modern_standard_chinese,base,,老師稱讚了認真的學生.,11,31,9,1.2222222222222223,3.4444444444444446
+openai-o200k,E10,everyday,classical_chinese,base,,師譽勤學者.,6,16,7,0.8571428571428571,2.2857142857142856
+openai-o200k,E10,everyday,classical_latin,base,,Magister discipulum diligentem laudavit.,40,40,9,4.444444444444445,4.444444444444445
+openai-o200k,E10,everyday,attic_greek,base,,Ὁ διδάσκαλος τὸν ἐπιμελῆ μαθητὴν ἐπῄνεσεν.,42,85,32,1.3125,2.65625
+openai-o200k,E11,everyday,english,base,,Our neighbour sold a blue cloak yesterday.,42,42,8,5.25,5.25
+openai-o200k,E11,everyday,modern_standard_chinese,base,,我們的鄰居昨天賣了一件藍色斗篷.,16,46,17,0.9411764705882353,2.7058823529411766
+openai-o200k,E11,everyday,classical_chinese,base,,鄰人昨售青衣.,7,19,8,0.875,2.375
+openai-o200k,E11,everyday,classical_latin,base,,Vicinus noster heri pallium caeruleum vendidit.,47,47,16,2.9375,2.9375
+openai-o200k,E11,everyday,attic_greek,base,,Ὁ γείτων ἡμῶν χλαμύδα κυανῆν χθὲς ἀπέδοτο.,42,83,32,1.3125,2.59375
+openai-o200k,E12,everyday,english,base,,The boat crossed the lake before dark.,38,38,8,4.75,4.75
+openai-o200k,E12,everyday,modern_standard_chinese,base,,船在天黑前渡過了湖.,10,28,10,1.0,2.8
+openai-o200k,E12,everyday,classical_chinese,base,,舟昏前濟湖.,6,16,8,0.75,2.0
+openai-o200k,E12,everyday,classical_latin,base,,Navis lacum ante noctem transiit.,33,33,10,3.3,3.3
+openai-o200k,E12,everyday,attic_greek,base,,Πλοῖον τὴν λίμνην πρὸ νυκτὸς διέπλευσεν.,40,78,28,1.4285714285714286,2.7857142857142856
+openai-o200k,E13,everyday,english,base,,He placed the cup near the window.,34,34,8,4.25,4.25
+openai-o200k,E13,everyday,modern_standard_chinese,base,,他把杯子放在窗邊.,9,25,10,0.9,2.5
+openai-o200k,E13,everyday,classical_chinese,base,,彼置杯於牖旁.,7,19,8,0.875,2.375
+openai-o200k,E13,everyday,classical_latin,base,,Ille poculum prope fenestram posuit.,36,36,12,3.0,3.0
+openai-o200k,E13,everyday,attic_greek,base,,Ἐκεῖνος ποτήριον παρὰ τῇ θυρίδι ἔθηκεν.,39,77,25,1.56,3.08
+openai-o200k,E14,everyday,english,base,,Many people gathered in the market.,35,35,7,5.0,5.0
+openai-o200k,E14,everyday,modern_standard_chinese,base,,許多人聚集在市場.,9,25,7,1.2857142857142858,3.5714285714285716
+openai-o200k,E14,everyday,classical_chinese,base,,眾集於市.,5,13,6,0.8333333333333334,2.1666666666666665
+openai-o200k,E14,everyday,classical_latin,base,,Multi homines in foro congregati sunt.,38,38,9,4.222222222222222,4.222222222222222
+openai-o200k,E14,everyday,attic_greek,base,,Πολλοὶ ἄνθρωποι ἐν ἀγορᾷ συνήχθησαν.,36,72,27,1.3333333333333333,2.6666666666666665
+openai-o200k,E15,everyday,english,base,,The small lamp burned all night.,32,32,7,4.571428571428571,4.571428571428571
+openai-o200k,E15,everyday,modern_standard_chinese,base,,小燈整夜燃著.,7,19,8,0.875,2.375
+openai-o200k,E15,everyday,classical_chinese,base,,小燈竟夜燃.,6,16,7,0.8571428571428571,2.2857142857142856
+openai-o200k,E15,everyday,classical_latin,base,,Lucerna parva tota nocte arsit.,31,31,10,3.1,3.1
+openai-o200k,E15,everyday,attic_greek,base,,Ὁ μικρὸς λύχνος διὰ πάσης νυκτὸς ἔκαιεν.,40,78,25,1.6,3.12
+openai-o200k,I01,instruction,english,base,,Close the door before leaving the room.,39,39,8,4.875,4.875
+openai-o200k,I01,instruction,modern_standard_chinese,base,,離開房間前關門.,8,22,8,1.0,2.75
+openai-o200k,I01,instruction,classical_chinese,base,,出室先闔門.,6,16,7,0.8571428571428571,2.2857142857142856
+openai-o200k,I01,instruction,classical_latin,base,,Ante discessum e cubiculo ianuam claude.,40,40,13,3.076923076923077,3.076923076923077
+openai-o200k,I01,instruction,attic_greek,base,,Πρὶν ἐξέλθῃς ἐκ τοῦ οἰκήματος τὴν θύραν κλεῖε.,46,92,35,1.3142857142857143,2.6285714285714286
+openai-o200k,I02,instruction,english,base,,Read the whole message before replying.,39,39,7,5.571428571428571,5.571428571428571
+openai-o200k,I02,instruction,modern_standard_chinese,base,,回覆前讀完整條訊息.,10,28,9,1.1111111111111112,3.111111111111111
+openai-o200k,I02,instruction,classical_chinese,base,,答前盡讀其書.,7,19,8,0.875,2.375
+openai-o200k,I02,instruction,classical_latin,base,,Totum nuntium lege antequam respondeas.,39,39,11,3.5454545454545454,3.5454545454545454
+openai-o200k,I02,instruction,attic_greek,base,,Ὅλον τὸ γράμμα ἀνάγνωθι πρὶν ἀποκρίνεσθαι.,42,83,28,1.5,2.9642857142857144
+openai-o200k,I03,instruction,english,base,,Put the clean plates on the shelf.,34,34,8,4.25,4.25
+openai-o200k,I03,instruction,modern_standard_chinese,base,,把乾淨的盤子放在架子上.,12,34,13,0.9230769230769231,2.6153846153846154
+openai-o200k,I03,instruction,classical_chinese,base,,置淨盤於架.,6,16,7,0.8571428571428571,2.2857142857142856
+openai-o200k,I03,instruction,classical_latin,base,,Patinas mundas in pluteo pone.,30,30,10,3.0,3.0
+openai-o200k,I03,instruction,attic_greek,base,,Τὰ καθαρὰ πινάκια ἐπὶ τὴν ἐσχάραν τίθει.,40,79,26,1.5384615384615385,3.0384615384615383
+openai-o200k,I04,instruction,english,base,,If rain starts go under a roof.,31,31,8,3.875,3.875
+openai-o200k,I04,instruction,modern_standard_chinese,base,,如果開始下雨就到屋簷下.,12,34,11,1.0909090909090908,3.090909090909091
+openai-o200k,I04,instruction,classical_chinese,base,,雨作則就簷.,6,16,7,0.8571428571428571,2.2857142857142856
+openai-o200k,I04,instruction,classical_latin,base,,Si pluvia incipit sub tectum i.,31,31,11,2.8181818181818183,2.8181818181818183
+openai-o200k,I04,instruction,attic_greek,base,,Ἂν ὑετὸς ἄρχηται ὑπὸ στέγην ἴθι.,32,65,31,1.032258064516129,2.096774193548387
+openai-o200k,I05,instruction,english,base,,Do not move the box without help.,33,33,8,4.125,4.125
+openai-o200k,I05,instruction,modern_standard_chinese,base,,沒有幫助不要搬箱子.,10,28,9,1.1111111111111112,3.111111111111111
+openai-o200k,I05,instruction,classical_chinese,base,,無助勿移箱.,6,16,6,1.0,2.6666666666666665
+openai-o200k,I05,instruction,classical_latin,base,,Arcam sine auxilio ne moveas.,29,29,9,3.2222222222222223,3.2222222222222223
+openai-o200k,I05,instruction,attic_greek,base,,Μὴ κίνει τὴν κιβωτὸν ἄνευ βοηθείας.,35,68,24,1.4583333333333333,2.8333333333333335
+openai-o200k,I06,instruction,english,base,,Write the date at the top of the page.,38,38,10,3.8,3.8
+openai-o200k,I06,instruction,modern_standard_chinese,base,,在頁面頂端寫下日期.,10,28,9,1.1111111111111112,3.111111111111111
+openai-o200k,I06,instruction,classical_chinese,base,,書日於頁首.,6,16,6,1.0,2.6666666666666665
+openai-o200k,I06,instruction,classical_latin,base,,Diem in summa pagina scribe.,28,28,8,3.5,3.5
+openai-o200k,I06,instruction,attic_greek,base,,Τὴν ἡμέραν ἐν ἄκρᾳ σελίδι γράφε.,32,63,25,1.28,2.52
+openai-o200k,I07,instruction,english,base,,Turn left after the bridge.,27,27,6,4.5,4.5
+openai-o200k,I07,instruction,modern_standard_chinese,base,,過橋後左轉.,6,16,6,1.0,2.6666666666666665
+openai-o200k,I07,instruction,classical_chinese,base,,過橋左行.,5,13,5,1.0,2.6
+openai-o200k,I07,instruction,classical_latin,base,,Post pontem ad laevam verte.,28,28,9,3.111111111111111,3.111111111111111
+openai-o200k,I07,instruction,attic_greek,base,,Μετὰ τὴν γέφυραν ἐπ᾽ ἀριστερὰ στρέφου.,38,76,27,1.4074074074074074,2.814814814814815
+openai-o200k,I08,instruction,english,base,,Give each guest a cup of water.,31,31,8,3.875,3.875
+openai-o200k,I08,instruction,modern_standard_chinese,base,,給每位客人一杯水.,9,25,9,1.0,2.7777777777777777
+openai-o200k,I08,instruction,classical_chinese,base,,賓各與一杯水.,7,19,8,0.875,2.375
+openai-o200k,I08,instruction,classical_latin,base,,Cuique hospiti poculum aquae da.,32,32,11,2.909090909090909,2.909090909090909
+openai-o200k,I08,instruction,attic_greek,base,,Ἑκάστῳ ξένῳ ποτήριον ὕδατος δίδου.,34,67,22,1.5454545454545454,3.0454545454545454
+openai-o200k,I09,instruction,english,base,,Check the numbers twice before sending the report.,50,50,9,5.555555555555555,5.555555555555555
+openai-o200k,I09,instruction,modern_standard_chinese,base,,寄送報告前核對數字兩次.,12,34,12,1.0,2.8333333333333335
+openai-o200k,I09,instruction,classical_chinese,base,,發報前再校數.,7,19,7,1.0,2.7142857142857144
+openai-o200k,I09,instruction,classical_latin,base,,Numeros bis examina antequam relationem mittas.,47,47,12,3.9166666666666665,3.9166666666666665
+openai-o200k,I09,instruction,attic_greek,base,,Τοὺς ἀριθμοὺς δίς ἐξέταζε πρὶν τὸν λόγον πέμπειν.,49,96,34,1.4411764705882353,2.823529411764706
+openai-o200k,I10,instruction,english,base,,Keep medicine away from children.,33,33,6,5.5,5.5
+openai-o200k,I10,instruction,modern_standard_chinese,base,,讓藥物遠離兒童.,8,22,9,0.8888888888888888,2.4444444444444446
+openai-o200k,I10,instruction,classical_chinese,base,,藥遠童.,4,10,5,0.8,2.0
+openai-o200k,I10,instruction,classical_latin,base,,Medicamentum procul a pueris serva.,35,35,11,3.1818181818181817,3.1818181818181817
+openai-o200k,I10,instruction,attic_greek,base,,Τὸ φάρμακον πόρρω τῶν παίδων φύλαττε.,37,70,20,1.85,3.5
+openai-o200k,I11,instruction,english,base,,Wait here until the guard returns.,34,34,7,4.857142857142857,4.857142857142857
+openai-o200k,I11,instruction,modern_standard_chinese,base,,在此等待直到守衛回來.,11,31,9,1.2222222222222223,3.4444444444444446
+openai-o200k,I11,instruction,classical_chinese,base,,待此至衛返.,6,16,6,1.0,2.6666666666666665
+openai-o200k,I11,instruction,classical_latin,base,,Hic exspecta donec custos redeat.,33,33,11,3.0,3.0
+openai-o200k,I11,instruction,attic_greek,base,,Ἐνθάδε μένε μέχρι ἂν ὁ φύλαξ ἐπανέλθῃ.,38,74,28,1.3571428571428572,2.642857142857143
+openai-o200k,I12,instruction,english,base,,Use a pencil to mark the answer.,32,32,8,4.0,4.0
+openai-o200k,I12,instruction,modern_standard_chinese,base,,用鉛筆標記答案.,8,22,8,1.0,2.75
+openai-o200k,I12,instruction,classical_chinese,base,,以鉛筆識答.,6,16,7,0.8571428571428571,2.2857142857142856
+openai-o200k,I12,instruction,classical_latin,base,,Stilo plumbeo responsum nota.,29,29,9,3.2222222222222223,3.2222222222222223
+openai-o200k,I12,instruction,attic_greek,base,,Μολυβδίῳ τὴν ἀπόκρισιν σημεῖου.,31,62,22,1.4090909090909092,2.8181818181818183
+openai-o200k,I13,instruction,english,base,,If the flag is red stop.,24,24,7,3.4285714285714284,3.4285714285714284
+openai-o200k,I13,instruction,modern_standard_chinese,base,,如果旗子是紅色就停下.,11,31,10,1.1,3.1
+openai-o200k,I13,instruction,classical_chinese,base,,旗赤則止.,5,13,5,1.0,2.6
+openai-o200k,I13,instruction,classical_latin,base,,Si vexillum rubrum est consiste.,32,32,8,4.0,4.0
+openai-o200k,I13,instruction,attic_greek,base,,Ἂν τὸ σημεῖον ἐρυθρὸν ᾖ στῆθι.,30,61,25,1.2,2.44
+openai-o200k,I14,instruction,english,base,,Tell me immediately if a problem occurs.,40,40,8,5.0,5.0
+openai-o200k,I14,instruction,modern_standard_chinese,base,,如果出現問題立即告訴我.,12,34,10,1.2,3.4
+openai-o200k,I14,instruction,classical_chinese,base,,有患即告我.,6,16,6,1.0,2.6666666666666665
+openai-o200k,I14,instruction,classical_latin,base,,Si difficultas oritur statim mihi dic.,38,38,10,3.8,3.8
+openai-o200k,I14,instruction,attic_greek,base,,Ἂν δυσχέρεια γένηται εὐθὺς μοι φράζε.,37,71,24,1.5416666666666667,2.9583333333333335
+openai-o200k,I15,instruction,english,base,,Wash your hands before the meal.,32,32,7,4.571428571428571,4.571428571428571
+openai-o200k,I15,instruction,modern_standard_chinese,base,,用餐前洗手.,6,16,6,1.0,2.6666666666666665
+openai-o200k,I15,instruction,classical_chinese,base,,食前盥手.,5,13,6,0.8333333333333334,2.1666666666666665
+openai-o200k,I15,instruction,classical_latin,base,,Manus lava ante cibum.,22,22,7,3.142857142857143,3.142857142857143
+openai-o200k,I15,instruction,attic_greek,base,,Τὰς χεῖρας πλῦνον πρὸ τοῦ δείπνου.,34,67,21,1.619047619047619,3.1904761904761907
+openai-o200k,R01,reasoning,english,base,,If the road is wet the carriage will travel slowly.,51,51,11,4.636363636363637,4.636363636363637
+openai-o200k,R01,reasoning,modern_standard_chinese,base,,如果道路濕了車就會走得慢.,13,37,12,1.0833333333333333,3.0833333333333335
+openai-o200k,R01,reasoning,classical_chinese,base,,道濕則車徐行.,7,19,8,0.875,2.375
+openai-o200k,R01,reasoning,classical_latin,base,,Si via umida est currus lente procedet.,39,39,11,3.5454545454545454,3.5454545454545454
+openai-o200k,R01,reasoning,attic_greek,base,,Ἂν ἡ ὁδὸς ὑγρὰ ᾖ τὸ ἅρμα βραδέως πορεύσεται.,44,88,38,1.1578947368421053,2.3157894736842106
+openai-o200k,R02,reasoning,english,base,,The jar broke because it fell from the table.,45,45,10,4.5,4.5
+openai-o200k,R02,reasoning,modern_standard_chinese,base,,罐子因為從桌上掉下來而碎了.,14,40,15,0.9333333333333333,2.6666666666666665
+openai-o200k,R02,reasoning,classical_chinese,base,,罌墮幾故碎.,6,16,9,0.6666666666666666,1.7777777777777777
+openai-o200k,R02,reasoning,classical_latin,base,,Urceus fractus est quod de mensa cecidit.,41,41,15,2.7333333333333334,2.7333333333333334
+openai-o200k,R02,reasoning,attic_greek,base,,Ἡ χύτρα συνέτριβη ὅτι ἀπὸ τῆς τραπέζης ἔπεσεν.,46,90,33,1.393939393939394,2.727272727272727
+openai-o200k,R03,reasoning,english,base,,If all gates are closed no visitor may enter.,45,45,10,4.5,4.5
+openai-o200k,R03,reasoning,modern_standard_chinese,base,,如果所有大門都關上就沒有訪客能進來.,18,52,15,1.2,3.466666666666667
+openai-o200k,R03,reasoning,classical_chinese,base,,諸門皆閉則客不得入.,10,28,10,1.0,2.8
+openai-o200k,R03,reasoning,classical_latin,base,,Si omnes portae clausae sunt nullus hospes intrare potest.,58,58,15,3.8666666666666667,3.8666666666666667
+openai-o200k,R03,reasoning,attic_greek,base,,Ἂν πᾶσαι αἱ πύλαι κεκλεισμέναι ὦσιν οὐδεὶς ξένος εἰσελθεῖν δύναται.,67,132,46,1.4565217391304348,2.869565217391304
+openai-o200k,R04,reasoning,english,base,,The lamp is dim because the oil is nearly gone.,47,47,11,4.2727272727272725,4.2727272727272725
+openai-o200k,R04,reasoning,modern_standard_chinese,base,,燈光昏暗因為油快用完了.,12,34,14,0.8571428571428571,2.4285714285714284
+openai-o200k,R04,reasoning,classical_chinese,base,,燈昏以油將竭.,7,19,10,0.7,1.9
+openai-o200k,R04,reasoning,classical_latin,base,,Lucerna obscura est quod oleum paene defecit.,45,45,14,3.2142857142857144,3.2142857142857144
+openai-o200k,R04,reasoning,attic_greek,base,,Ὁ λύχνος ἀμαυρός ἐστιν ὅτι τὸ ἔλαιον σχεδὸν ἐκλέλοιπεν.,55,109,38,1.4473684210526316,2.8684210526315788
+openai-o200k,R05,reasoning,english,base,,If the price rises fewer buyers may come.,41,41,9,4.555555555555555,4.555555555555555
+openai-o200k,R05,reasoning,modern_standard_chinese,base,,如果價格上升就可能有較少買家來.,16,46,13,1.2307692307692308,3.5384615384615383
+openai-o200k,R05,reasoning,classical_chinese,base,,價升則買者或少.,8,22,8,1.0,2.75
+openai-o200k,R05,reasoning,classical_latin,base,,Si pretium crescit pauciores emptores venire possunt.,53,53,14,3.7857142857142856,3.7857142857142856
+openai-o200k,R05,reasoning,attic_greek,base,,Ἂν ἡ τιμὴ αὔξηται ἐλάττους ἀγορασταὶ ἥξουσιν.,45,91,34,1.3235294117647058,2.676470588235294
+openai-o200k,R06,reasoning,english,base,,Every metal in this box is heavy. This coin is in the box. Therefore this coin is heavy.,88,88,21,4.190476190476191,4.190476190476191
+openai-o200k,R06,reasoning,modern_standard_chinese,base,,這個盒中的每塊金屬都很重.這枚硬幣在盒中.因此這枚硬幣很重.,30,84,32,0.9375,2.625
+openai-o200k,R06,reasoning,classical_chinese,base,,此匣之金皆重.此錢在匣.故此錢重.,17,45,21,0.8095238095238095,2.142857142857143
+openai-o200k,R06,reasoning,classical_latin,base,,Omne metallum in hac arca grave est. Hic nummus in arca est. Igitur hic nummus gravis est.,90,90,31,2.903225806451613,2.903225806451613
+openai-o200k,R06,reasoning,attic_greek,base,,Πᾶν μέταλλον ἐν τῇ κιβωτῷ βαρύ ἐστιν. Τοῦτο τὸ νόμισμα ἐν τῇ κιβωτῷ ἐστιν. Οὖν τοῦτο τὸ νόμισμα βαρύ ἐστιν.,107,207,75,1.4266666666666667,2.76
+openai-o200k,R07,reasoning,english,base,,The garden needs water because the leaves are dry.,50,50,10,5.0,5.0
+openai-o200k,R07,reasoning,modern_standard_chinese,base,,花園需要水因為葉子乾了.,12,34,11,1.0909090909090908,3.090909090909091
+openai-o200k,R07,reasoning,classical_chinese,base,,園須水以葉枯.,7,19,8,0.875,2.375
+openai-o200k,R07,reasoning,classical_latin,base,,Hortus aquam eget quod folia arida sunt.,40,40,13,3.076923076923077,3.076923076923077
+openai-o200k,R07,reasoning,attic_greek,base,,Ὁ κῆπος ὕδατος δεῖται ὅτι τὰ φύλλα ξηρὰ ἐστιν.,46,91,31,1.4838709677419355,2.935483870967742
+openai-o200k,R08,reasoning,english,base,,If you leave now you will arrive before noon.,45,45,10,4.5,4.5
+openai-o200k,R08,reasoning,modern_standard_chinese,base,,如果你現在離開就會在中午前到達.,16,46,14,1.1428571428571428,3.2857142857142856
+openai-o200k,R08,reasoning,classical_chinese,base,,今去則午前至.,7,19,7,1.0,2.7142857142857144
+openai-o200k,R08,reasoning,classical_latin,base,,Si nunc discedis ante meridiem pervenies.,41,41,13,3.1538461538461537,3.1538461538461537
+openai-o200k,R08,reasoning,attic_greek,base,,Ἂν νῦν ἀπίῃς πρὸ μεσημβρίας ἀφίξῃ.,34,69,27,1.2592592592592593,2.5555555555555554
+openai-o200k,R09,reasoning,english,base,,The map is useful because it shows the shortest path.,53,53,11,4.818181818181818,4.818181818181818
+openai-o200k,R09,reasoning,modern_standard_chinese,base,,地圖很有用因為它顯示最短的路徑.,16,46,18,0.8888888888888888,2.5555555555555554
+openai-o200k,R09,reasoning,classical_chinese,base,,圖有用以示最短途.,9,25,9,1.0,2.7777777777777777
+openai-o200k,R09,reasoning,classical_latin,base,,Tabula utilis est quod viam brevissimam ostendit.,49,49,14,3.5,3.5
+openai-o200k,R09,reasoning,attic_greek,base,,Ὁ χάρτης χρήσιμος ἐστὶν ὅτι τὴν βραχυτάτην ὁδὸν δείκνυσιν.,58,114,39,1.4871794871794872,2.923076923076923
+openai-o200k,R10,reasoning,english,base,,Because it snowed during the night the roof is white.,53,53,12,4.416666666666667,4.416666666666667
+openai-o200k,R10,reasoning,modern_standard_chinese,base,,因為夜裡下雪屋頂是白色的.,13,37,14,0.9285714285714286,2.642857142857143
+openai-o200k,R10,reasoning,classical_chinese,base,,夜雪故屋頂白.,7,19,7,1.0,2.7142857142857144
+openai-o200k,R10,reasoning,classical_latin,base,,Quia nocte ninxit tectum album est.,35,35,11,3.1818181818181817,3.1818181818181817
+openai-o200k,R10,reasoning,attic_greek,base,,Ἐπειδὴ νυκτὸς ἔνιψεν ἡ στέγη λευκή ἐστιν.,41,81,33,1.2424242424242424,2.4545454545454546
+openai-o200k,R11,reasoning,english,base,,If one witness disagrees the judge must examine the evidence again.,67,67,13,5.153846153846154,5.153846153846154
+openai-o200k,R11,reasoning,modern_standard_chinese,base,,如果一位證人不同意法官必須再次檢驗證據.,20,58,18,1.1111111111111112,3.2222222222222223
+openai-o200k,R11,reasoning,classical_chinese,base,,一證異言則判官必再察證.,12,34,12,1.0,2.8333333333333335
+openai-o200k,R11,reasoning,classical_latin,base,,Si unus testis dissentit iudex testimonia iterum examinare debet.,65,65,18,3.611111111111111,3.611111111111111
+openai-o200k,R11,reasoning,attic_greek,base,,Ἂν εἷς μάρτυς ἀντιλέγῃ ὁ δικαστὴς τὰ τεκμήρια πάλιν ἐξετάζειν δεῖ.,66,130,46,1.434782608695652,2.8260869565217392
+openai-o200k,R12,reasoning,english,base,,The room is quiet because everyone has left.,44,44,9,4.888888888888889,4.888888888888889
+openai-o200k,R12,reasoning,modern_standard_chinese,base,,房間很安靜因為所有人都離開了.,15,43,15,1.0,2.8666666666666667
+openai-o200k,R12,reasoning,classical_chinese,base,,室寂以眾皆去.,7,19,9,0.7777777777777778,2.111111111111111
+openai-o200k,R12,reasoning,classical_latin,base,,Cubiculum quietum est quod omnes discesserunt.,46,46,12,3.8333333333333335,3.8333333333333335
+openai-o200k,R12,reasoning,attic_greek,base,,Τὸ οἴκημα ἥσυχόν ἐστιν ὅτι πάντες ἀπελήλυθαν.,45,89,30,1.5,2.966666666666667
+openai-o200k,R13,reasoning,english,base,,If the message is unclear ask the speaker to explain it.,56,56,12,4.666666666666667,4.666666666666667
+openai-o200k,R13,reasoning,modern_standard_chinese,base,,如果訊息不清楚請要求說話的人解釋它.,18,52,16,1.125,3.25
+openai-o200k,R13,reasoning,classical_chinese,base,,書不明則請言者釋之.,10,28,11,0.9090909090909091,2.5454545454545454
+openai-o200k,R13,reasoning,classical_latin,base,,Si nuntius obscurus est roga dicentem ut eum explicet.,54,54,17,3.176470588235294,3.176470588235294
+openai-o200k,R13,reasoning,attic_greek,base,,Ἂν τὸ γράμμα ἀσαφὲς ᾖ τὸν λέγοντα κέλευε αὐτὸ σαφηνίζειν.,57,112,38,1.5,2.9473684210526314
+openai-o200k,R14,reasoning,english,base,,Because the river is shallow the boat cannot pass here.,55,55,11,5.0,5.0
+openai-o200k,R14,reasoning,modern_standard_chinese,base,,因為河淺船不能從這裡通過.,13,37,14,0.9285714285714286,2.642857142857143
+openai-o200k,R14,reasoning,classical_chinese,base,,河淺故舟不得過此.,9,25,9,1.0,2.7777777777777777
+openai-o200k,R14,reasoning,classical_latin,base,,Quia flumen vadosum est navis hic transire non potest.,54,54,16,3.375,3.375
+openai-o200k,R14,reasoning,attic_greek,base,,Ἐπειδὴ ὁ ποταμὸς ρηχὸς ἐστιν τὸ πλοῖον ἐνθάδε διελθεῖν οὐ δύναται.,66,132,46,1.434782608695652,2.869565217391304
+openai-o200k,R15,reasoning,english,base,,If two quantities equal the same number they equal each other.,62,62,12,5.166666666666667,5.166666666666667
+openai-o200k,R15,reasoning,modern_standard_chinese,base,,如果兩個量等於同一個數它們彼此相等.,18,52,17,1.0588235294117647,3.0588235294117645
+openai-o200k,R15,reasoning,classical_chinese,base,,二量同等一數則相等.,10,28,10,1.0,2.8
+openai-o200k,R15,reasoning,classical_latin,base,,Si duae quantitates eidem numero aequales sunt inter se aequales sunt.,70,70,19,3.6842105263157894,3.6842105263157894
+openai-o200k,R15,reasoning,attic_greek,base,,Ἂν δύο ποσὰ τῷ αὐτῷ ἀριθμῷ ἴσα ᾖ ἀλλήλοις ἴσα ἐστίν.,52,105,43,1.2093023255813953,2.441860465116279
+qwen-2.5,E01,everyday,english,base,,The child opened the door.,26,26,6,4.333333333333333,4.333333333333333
+qwen-2.5,E01,everyday,modern_standard_chinese,base,,孩子打開了門.,7,19,6,1.1666666666666667,3.1666666666666665
+qwen-2.5,E01,everyday,classical_chinese,base,,童啟門.,4,10,4,1.0,2.5
+qwen-2.5,E01,everyday,classical_latin,base,,Puer ianuam aperuit.,20,20,10,2.0,2.0
+qwen-2.5,E01,everyday,attic_greek,base,,Ὁ παῖς τὴν θύραν ἤνοιξε.,24,47,23,1.0434782608695652,2.0434782608695654
+qwen-2.5,E02,everyday,english,base,,My friend brought fresh bread.,30,30,6,5.0,5.0
+qwen-2.5,E02,everyday,modern_standard_chinese,base,,我的朋友帶來了新鮮的麵包.,13,37,10,1.3,3.7
+qwen-2.5,E02,everyday,classical_chinese,base,,友攜新麵包至.,7,19,8,0.875,2.375
+qwen-2.5,E02,everyday,classical_latin,base,,Amicus meus panem recentem attulit.,35,35,12,2.9166666666666665,2.9166666666666665
+qwen-2.5,E02,everyday,attic_greek,base,,Ὁ φίλος μου ἄρτον πρόσφατον ἤνεγκεν.,36,69,34,1.0588235294117647,2.0294117647058822
+qwen-2.5,E03,everyday,english,base,,We waited beside the river until sunset.,40,40,8,5.0,5.0
+qwen-2.5,E03,everyday,modern_standard_chinese,base,,我們在河邊等到日落.,10,28,8,1.25,3.5
+qwen-2.5,E03,everyday,classical_chinese,base,,吾等河畔至日暮.,8,22,8,1.0,2.75
+qwen-2.5,E03,everyday,classical_latin,base,,Ad fluminis ripam usque ad solis occasum exspectavimus.,55,55,18,3.0555555555555554,3.0555555555555554
+qwen-2.5,E03,everyday,attic_greek,base,,Παρὰ τῷ ποταμῷ μέχρι δυσμῶν ἡλίου ἐμείναμεν.,44,87,41,1.0731707317073171,2.1219512195121952
+qwen-2.5,E04,everyday,english,base,,The dog found its ball under the table.,39,39,9,4.333333333333333,4.333333333333333
+qwen-2.5,E04,everyday,modern_standard_chinese,base,,狗在桌下找到了自己的球.,12,34,8,1.5,4.25
+qwen-2.5,E04,everyday,classical_chinese,base,,犬於幾下得其球.,8,22,8,1.0,2.75
+qwen-2.5,E04,everyday,classical_latin,base,,Canis pilam suam sub mensa invenit.,35,35,13,2.6923076923076925,2.6923076923076925
+qwen-2.5,E04,everyday,attic_greek,base,,Ὁ κύων τὴν ἑαυτοῦ σφαῖραν ὑπὸ τῇ τραπέζῃ εὗρεν.,47,95,43,1.0930232558139534,2.2093023255813953
+qwen-2.5,E05,everyday,english,base,,She wrote a short letter to her sister.,39,39,9,4.333333333333333,4.333333333333333
+qwen-2.5,E05,everyday,modern_standard_chinese,base,,她給姐姐寫了一封短信.,11,31,8,1.375,3.875
+qwen-2.5,E05,everyday,classical_chinese,base,,她書短牘與姊.,7,19,8,0.875,2.375
+qwen-2.5,E05,everyday,classical_latin,base,,Ea sorori suae epistulam brevem scripsit.,41,41,17,2.411764705882353,2.411764705882353
+qwen-2.5,E05,everyday,attic_greek,base,,Αὕτη γράμμα βραχὺ τῇ ἀδελφῇ ἔγραψεν.,36,72,35,1.0285714285714285,2.057142857142857
+qwen-2.5,E06,everyday,english,base,,Rain began shortly after lunch.,31,31,6,5.166666666666667,5.166666666666667
+qwen-2.5,E06,everyday,modern_standard_chinese,base,,午飯後不久開始下雨.,10,28,7,1.4285714285714286,4.0
+qwen-2.5,E06,everyday,classical_chinese,base,,食後未幾雨作.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,E06,everyday,classical_latin,base,,Paulo post prandium pluvia coepit.,34,34,13,2.6153846153846154,2.6153846153846154
+qwen-2.5,E06,everyday,attic_greek,base,,Μετὰ τὸ ἄριστον ὀλίγῳ ὕστερον ὑετὸς ἤρξατο.,43,88,47,0.9148936170212766,1.872340425531915
+qwen-2.5,E07,everyday,english,base,,The old merchant counted the coins twice.,41,41,8,5.125,5.125
+qwen-2.5,E07,everyday,modern_standard_chinese,base,,老商人數了兩次錢幣.,10,28,9,1.1111111111111112,3.111111111111111
+qwen-2.5,E07,everyday,classical_chinese,base,,老賈再數其錢.,7,19,8,0.875,2.375
+qwen-2.5,E07,everyday,classical_latin,base,,Mercator senex nummos bis numeravit.,36,36,10,3.6,3.6
+qwen-2.5,E07,everyday,attic_greek,base,,Ὁ γέρων ἔμπορος τὰ νομίσματα δίς ἠρίθμησεν.,43,83,41,1.048780487804878,2.024390243902439
+qwen-2.5,E08,everyday,english,base,,They planted three trees behind the house.,42,42,8,5.25,5.25
+qwen-2.5,E08,everyday,modern_standard_chinese,base,,他們在屋後種了三棵樹.,11,31,10,1.1,3.1
+qwen-2.5,E08,everyday,classical_chinese,base,,眾植三樹於屋後.,8,22,8,1.0,2.75
+qwen-2.5,E08,everyday,classical_latin,base,,Tres arbores post domum plantaverunt.,37,37,12,3.0833333333333335,3.0833333333333335
+qwen-2.5,E08,everyday,attic_greek,base,,Τρία δένδρα ὄπισθεν τῆς οἰκίας ἐφύτευσαν.,41,80,41,1.0,1.951219512195122
+qwen-2.5,E09,everyday,english,base,,I forgot the key at home.,25,25,7,3.5714285714285716,3.5714285714285716
+qwen-2.5,E09,everyday,modern_standard_chinese,base,,我把鑰匙忘在家裡了.,10,28,9,1.1111111111111112,3.111111111111111
+qwen-2.5,E09,everyday,classical_chinese,base,,吾遺鑰於家.,6,16,7,0.8571428571428571,2.2857142857142856
+qwen-2.5,E09,everyday,classical_latin,base,,Clavem domi oblitus sum.,24,24,10,2.4,2.4
+qwen-2.5,E09,everyday,attic_greek,base,,Ἐπελαθόμην τῆς κλειδὸς οἴκοι.,29,58,27,1.0740740740740742,2.1481481481481484
+qwen-2.5,E10,everyday,english,base,,The teacher praised the careful student.,40,40,7,5.714285714285714,5.714285714285714
+qwen-2.5,E10,everyday,modern_standard_chinese,base,,老師稱讚了認真的學生.,11,31,8,1.375,3.875
+qwen-2.5,E10,everyday,classical_chinese,base,,師譽勤學者.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,E10,everyday,classical_latin,base,,Magister discipulum diligentem laudavit.,40,40,11,3.6363636363636362,3.6363636363636362
+qwen-2.5,E10,everyday,attic_greek,base,,Ὁ διδάσκαλος τὸν ἐπιμελῆ μαθητὴν ἐπῄνεσεν.,42,85,41,1.024390243902439,2.073170731707317
+qwen-2.5,E11,everyday,english,base,,Our neighbour sold a blue cloak yesterday.,42,42,8,5.25,5.25
+qwen-2.5,E11,everyday,modern_standard_chinese,base,,我們的鄰居昨天賣了一件藍色斗篷.,16,46,13,1.2307692307692308,3.5384615384615383
+qwen-2.5,E11,everyday,classical_chinese,base,,鄰人昨售青衣.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,E11,everyday,classical_latin,base,,Vicinus noster heri pallium caeruleum vendidit.,47,47,16,2.9375,2.9375
+qwen-2.5,E11,everyday,attic_greek,base,,Ὁ γείτων ἡμῶν χλαμύδα κυανῆν χθὲς ἀπέδοτο.,42,83,42,1.0,1.9761904761904763
+qwen-2.5,E12,everyday,english,base,,The boat crossed the lake before dark.,38,38,8,4.75,4.75
+qwen-2.5,E12,everyday,modern_standard_chinese,base,,船在天黑前渡過了湖.,10,28,10,1.0,2.8
+qwen-2.5,E12,everyday,classical_chinese,base,,舟昏前濟湖.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,E12,everyday,classical_latin,base,,Navis lacum ante noctem transiit.,33,33,11,3.0,3.0
+qwen-2.5,E12,everyday,attic_greek,base,,Πλοῖον τὴν λίμνην πρὸ νυκτὸς διέπλευσεν.,40,78,35,1.1428571428571428,2.2285714285714286
+qwen-2.5,E13,everyday,english,base,,He placed the cup near the window.,34,34,8,4.25,4.25
+qwen-2.5,E13,everyday,modern_standard_chinese,base,,他把杯子放在窗邊.,9,25,7,1.2857142857142858,3.5714285714285716
+qwen-2.5,E13,everyday,classical_chinese,base,,彼置杯於牖旁.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,E13,everyday,classical_latin,base,,Ille poculum prope fenestram posuit.,36,36,12,3.0,3.0
+qwen-2.5,E13,everyday,attic_greek,base,,Ἐκεῖνος ποτήριον παρὰ τῇ θυρίδι ἔθηκεν.,39,77,37,1.054054054054054,2.081081081081081
+qwen-2.5,E14,everyday,english,base,,Many people gathered in the market.,35,35,7,5.0,5.0
+qwen-2.5,E14,everyday,modern_standard_chinese,base,,許多人聚集在市場.,9,25,6,1.5,4.166666666666667
+qwen-2.5,E14,everyday,classical_chinese,base,,眾集於市.,5,13,5,1.0,2.6
+qwen-2.5,E14,everyday,classical_latin,base,,Multi homines in foro congregati sunt.,38,38,10,3.8,3.8
+qwen-2.5,E14,everyday,attic_greek,base,,Πολλοὶ ἄνθρωποι ἐν ἀγορᾷ συνήχθησαν.,36,72,38,0.9473684210526315,1.894736842105263
+qwen-2.5,E15,everyday,english,base,,The small lamp burned all night.,32,32,7,4.571428571428571,4.571428571428571
+qwen-2.5,E15,everyday,modern_standard_chinese,base,,小燈整夜燃著.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,E15,everyday,classical_chinese,base,,小燈竟夜燃.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,E15,everyday,classical_latin,base,,Lucerna parva tota nocte arsit.,31,31,11,2.8181818181818183,2.8181818181818183
+qwen-2.5,E15,everyday,attic_greek,base,,Ὁ μικρὸς λύχνος διὰ πάσης νυκτὸς ἔκαιεν.,40,78,35,1.1428571428571428,2.2285714285714286
+qwen-2.5,I01,instruction,english,base,,Close the door before leaving the room.,39,39,8,4.875,4.875
+qwen-2.5,I01,instruction,modern_standard_chinese,base,,離開房間前關門.,8,22,7,1.1428571428571428,3.142857142857143
+qwen-2.5,I01,instruction,classical_chinese,base,,出室先闔門.,6,16,7,0.8571428571428571,2.2857142857142856
+qwen-2.5,I01,instruction,classical_latin,base,,Ante discessum e cubiculo ianuam claude.,40,40,15,2.6666666666666665,2.6666666666666665
+qwen-2.5,I01,instruction,attic_greek,base,,Πρὶν ἐξέλθῃς ἐκ τοῦ οἰκήματος τὴν θύραν κλεῖε.,46,92,45,1.0222222222222221,2.0444444444444443
+qwen-2.5,I02,instruction,english,base,,Read the whole message before replying.,39,39,8,4.875,4.875
+qwen-2.5,I02,instruction,modern_standard_chinese,base,,回覆前讀完整條訊息.,10,28,9,1.1111111111111112,3.111111111111111
+qwen-2.5,I02,instruction,classical_chinese,base,,答前盡讀其書.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,I02,instruction,classical_latin,base,,Totum nuntium lege antequam respondeas.,39,39,14,2.7857142857142856,2.7857142857142856
+qwen-2.5,I02,instruction,attic_greek,base,,Ὅλον τὸ γράμμα ἀνάγνωθι πρὶν ἀποκρίνεσθαι.,42,83,40,1.05,2.075
+qwen-2.5,I03,instruction,english,base,,Put the clean plates on the shelf.,34,34,8,4.25,4.25
+qwen-2.5,I03,instruction,modern_standard_chinese,base,,把乾淨的盤子放在架子上.,12,34,10,1.2,3.4
+qwen-2.5,I03,instruction,classical_chinese,base,,置淨盤於架.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,I03,instruction,classical_latin,base,,Patinas mundas in pluteo pone.,30,30,12,2.5,2.5
+qwen-2.5,I03,instruction,attic_greek,base,,Τὰ καθαρὰ πινάκια ἐπὶ τὴν ἐσχάραν τίθει.,40,79,38,1.0526315789473684,2.0789473684210527
+qwen-2.5,I04,instruction,english,base,,If rain starts go under a roof.,31,31,8,3.875,3.875
+qwen-2.5,I04,instruction,modern_standard_chinese,base,,如果開始下雨就到屋簷下.,12,34,10,1.2,3.4
+qwen-2.5,I04,instruction,classical_chinese,base,,雨作則就簷.,6,16,7,0.8571428571428571,2.2857142857142856
+qwen-2.5,I04,instruction,classical_latin,base,,Si pluvia incipit sub tectum i.,31,31,13,2.3846153846153846,2.3846153846153846
+qwen-2.5,I04,instruction,attic_greek,base,,Ἂν ὑετὸς ἄρχηται ὑπὸ στέγην ἴθι.,32,65,35,0.9142857142857143,1.8571428571428572
+qwen-2.5,I05,instruction,english,base,,Do not move the box without help.,33,33,8,4.125,4.125
+qwen-2.5,I05,instruction,modern_standard_chinese,base,,沒有幫助不要搬箱子.,10,28,6,1.6666666666666667,4.666666666666667
+qwen-2.5,I05,instruction,classical_chinese,base,,無助勿移箱.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,I05,instruction,classical_latin,base,,Arcam sine auxilio ne moveas.,29,29,9,3.2222222222222223,3.2222222222222223
+qwen-2.5,I05,instruction,attic_greek,base,,Μὴ κίνει τὴν κιβωτὸν ἄνευ βοηθείας.,35,68,32,1.09375,2.125
+qwen-2.5,I06,instruction,english,base,,Write the date at the top of the page.,38,38,10,3.8,3.8
+qwen-2.5,I06,instruction,modern_standard_chinese,base,,在頁面頂端寫下日期.,10,28,9,1.1111111111111112,3.111111111111111
+qwen-2.5,I06,instruction,classical_chinese,base,,書日於頁首.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,I06,instruction,classical_latin,base,,Diem in summa pagina scribe.,28,28,9,3.111111111111111,3.111111111111111
+qwen-2.5,I06,instruction,attic_greek,base,,Τὴν ἡμέραν ἐν ἄκρᾳ σελίδι γράφε.,32,63,33,0.9696969696969697,1.9090909090909092
+qwen-2.5,I07,instruction,english,base,,Turn left after the bridge.,27,27,6,4.5,4.5
+qwen-2.5,I07,instruction,modern_standard_chinese,base,,過橋後左轉.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,I07,instruction,classical_chinese,base,,過橋左行.,5,13,5,1.0,2.6
+qwen-2.5,I07,instruction,classical_latin,base,,Post pontem ad laevam verte.,28,28,9,3.111111111111111,3.111111111111111
+qwen-2.5,I07,instruction,attic_greek,base,,Μετὰ τὴν γέφυραν ἐπ᾽ ἀριστερὰ στρέφου.,38,76,36,1.0555555555555556,2.111111111111111
+qwen-2.5,I08,instruction,english,base,,Give each guest a cup of water.,31,31,8,3.875,3.875
+qwen-2.5,I08,instruction,modern_standard_chinese,base,,給每位客人一杯水.,9,25,6,1.5,4.166666666666667
+qwen-2.5,I08,instruction,classical_chinese,base,,賓各與一杯水.,7,19,6,1.1666666666666667,3.1666666666666665
+qwen-2.5,I08,instruction,classical_latin,base,,Cuique hospiti poculum aquae da.,32,32,11,2.909090909090909,2.909090909090909
+qwen-2.5,I08,instruction,attic_greek,base,,Ἑκάστῳ ξένῳ ποτήριον ὕδατος δίδου.,34,67,32,1.0625,2.09375
+qwen-2.5,I09,instruction,english,base,,Check the numbers twice before sending the report.,50,50,9,5.555555555555555,5.555555555555555
+qwen-2.5,I09,instruction,modern_standard_chinese,base,,寄送報告前核對數字兩次.,12,34,11,1.0909090909090908,3.090909090909091
+qwen-2.5,I09,instruction,classical_chinese,base,,發報前再校數.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,I09,instruction,classical_latin,base,,Numeros bis examina antequam relationem mittas.,47,47,13,3.6153846153846154,3.6153846153846154
+qwen-2.5,I09,instruction,attic_greek,base,,Τοὺς ἀριθμοὺς δίς ἐξέταζε πρὶν τὸν λόγον πέμπειν.,49,96,46,1.065217391304348,2.0869565217391304
+qwen-2.5,I10,instruction,english,base,,Keep medicine away from children.,33,33,6,5.5,5.5
+qwen-2.5,I10,instruction,modern_standard_chinese,base,,讓藥物遠離兒童.,8,22,7,1.1428571428571428,3.142857142857143
+qwen-2.5,I10,instruction,classical_chinese,base,,藥遠童.,4,10,4,1.0,2.5
+qwen-2.5,I10,instruction,classical_latin,base,,Medicamentum procul a pueris serva.,35,35,13,2.6923076923076925,2.6923076923076925
+qwen-2.5,I10,instruction,attic_greek,base,,Τὸ φάρμακον πόρρω τῶν παίδων φύλαττε.,37,70,32,1.15625,2.1875
+qwen-2.5,I11,instruction,english,base,,Wait here until the guard returns.,34,34,7,4.857142857142857,4.857142857142857
+qwen-2.5,I11,instruction,modern_standard_chinese,base,,在此等待直到守衛回來.,11,31,7,1.5714285714285714,4.428571428571429
+qwen-2.5,I11,instruction,classical_chinese,base,,待此至衛返.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,I11,instruction,classical_latin,base,,Hic exspecta donec custos redeat.,33,33,12,2.75,2.75
+qwen-2.5,I11,instruction,attic_greek,base,,Ἐνθάδε μένε μέχρι ἂν ὁ φύλαξ ἐπανέλθῃ.,38,74,38,1.0,1.9473684210526316
+qwen-2.5,I12,instruction,english,base,,Use a pencil to mark the answer.,32,32,8,4.0,4.0
+qwen-2.5,I12,instruction,modern_standard_chinese,base,,用鉛筆標記答案.,8,22,8,1.0,2.75
+qwen-2.5,I12,instruction,classical_chinese,base,,以鉛筆識答.,6,16,7,0.8571428571428571,2.2857142857142856
+qwen-2.5,I12,instruction,classical_latin,base,,Stilo plumbeo responsum nota.,29,29,10,2.9,2.9
+qwen-2.5,I12,instruction,attic_greek,base,,Μολυβδίῳ τὴν ἀπόκρισιν σημεῖου.,31,62,29,1.0689655172413792,2.1379310344827585
+qwen-2.5,I13,instruction,english,base,,If the flag is red stop.,24,24,7,3.4285714285714284,3.4285714285714284
+qwen-2.5,I13,instruction,modern_standard_chinese,base,,如果旗子是紅色就停下.,11,31,9,1.2222222222222223,3.4444444444444446
+qwen-2.5,I13,instruction,classical_chinese,base,,旗赤則止.,5,13,5,1.0,2.6
+qwen-2.5,I13,instruction,classical_latin,base,,Si vexillum rubrum est consiste.,32,32,9,3.5555555555555554,3.5555555555555554
+qwen-2.5,I13,instruction,attic_greek,base,,Ἂν τὸ σημεῖον ἐρυθρὸν ᾖ στῆθι.,30,61,30,1.0,2.033333333333333
+qwen-2.5,I14,instruction,english,base,,Tell me immediately if a problem occurs.,40,40,8,5.0,5.0
+qwen-2.5,I14,instruction,modern_standard_chinese,base,,如果出現問題立即告訴我.,12,34,7,1.7142857142857142,4.857142857142857
+qwen-2.5,I14,instruction,classical_chinese,base,,有患即告我.,6,16,6,1.0,2.6666666666666665
+qwen-2.5,I14,instruction,classical_latin,base,,Si difficultas oritur statim mihi dic.,38,38,11,3.4545454545454546,3.4545454545454546
+qwen-2.5,I14,instruction,attic_greek,base,,Ἂν δυσχέρεια γένηται εὐθὺς μοι φράζε.,37,71,32,1.15625,2.21875
+qwen-2.5,I15,instruction,english,base,,Wash your hands before the meal.,32,32,8,4.0,4.0
+qwen-2.5,I15,instruction,modern_standard_chinese,base,,用餐前洗手.,6,16,4,1.5,4.0
+qwen-2.5,I15,instruction,classical_chinese,base,,食前盥手.,5,13,5,1.0,2.6
+qwen-2.5,I15,instruction,classical_latin,base,,Manus lava ante cibum.,22,22,8,2.75,2.75
+qwen-2.5,I15,instruction,attic_greek,base,,Τὰς χεῖρας πλῦνον πρὸ τοῦ δείπνου.,34,67,29,1.1724137931034482,2.310344827586207
+qwen-2.5,R01,reasoning,english,base,,If the road is wet the carriage will travel slowly.,51,51,11,4.636363636363637,4.636363636363637
+qwen-2.5,R01,reasoning,modern_standard_chinese,base,,如果道路濕了車就會走得慢.,13,37,9,1.4444444444444444,4.111111111111111
+qwen-2.5,R01,reasoning,classical_chinese,base,,道濕則車徐行.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,R01,reasoning,classical_latin,base,,Si via umida est currus lente procedet.,39,39,12,3.25,3.25
+qwen-2.5,R01,reasoning,attic_greek,base,,Ἂν ἡ ὁδὸς ὑγρὰ ᾖ τὸ ἅρμα βραδέως πορεύσεται.,44,88,46,0.9565217391304348,1.9130434782608696
+qwen-2.5,R02,reasoning,english,base,,The jar broke because it fell from the table.,45,45,10,4.5,4.5
+qwen-2.5,R02,reasoning,modern_standard_chinese,base,,罐子因為從桌上掉下來而碎了.,14,40,11,1.2727272727272727,3.6363636363636362
+qwen-2.5,R02,reasoning,classical_chinese,base,,罌墮幾故碎.,6,16,8,0.75,2.0
+qwen-2.5,R02,reasoning,classical_latin,base,,Urceus fractus est quod de mensa cecidit.,41,41,16,2.5625,2.5625
+qwen-2.5,R02,reasoning,attic_greek,base,,Ἡ χύτρα συνέτριβη ὅτι ἀπὸ τῆς τραπέζης ἔπεσεν.,46,90,46,1.0,1.9565217391304348
+qwen-2.5,R03,reasoning,english,base,,If all gates are closed no visitor may enter.,45,45,10,4.5,4.5
+qwen-2.5,R03,reasoning,modern_standard_chinese,base,,如果所有大門都關上就沒有訪客能進來.,18,52,15,1.2,3.466666666666667
+qwen-2.5,R03,reasoning,classical_chinese,base,,諸門皆閉則客不得入.,10,28,9,1.1111111111111112,3.111111111111111
+qwen-2.5,R03,reasoning,classical_latin,base,,Si omnes portae clausae sunt nullus hospes intrare potest.,58,58,18,3.2222222222222223,3.2222222222222223
+qwen-2.5,R03,reasoning,attic_greek,base,,Ἂν πᾶσαι αἱ πύλαι κεκλεισμέναι ὦσιν οὐδεὶς ξένος εἰσελθεῖν δύναται.,67,132,59,1.1355932203389831,2.23728813559322
+qwen-2.5,R04,reasoning,english,base,,The lamp is dim because the oil is nearly gone.,47,47,11,4.2727272727272725,4.2727272727272725
+qwen-2.5,R04,reasoning,modern_standard_chinese,base,,燈光昏暗因為油快用完了.,12,34,10,1.2,3.4
+qwen-2.5,R04,reasoning,classical_chinese,base,,燈昏以油將竭.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,R04,reasoning,classical_latin,base,,Lucerna obscura est quod oleum paene defecit.,45,45,15,3.0,3.0
+qwen-2.5,R04,reasoning,attic_greek,base,,Ὁ λύχνος ἀμαυρός ἐστιν ὅτι τὸ ἔλαιον σχεδὸν ἐκλέλοιπεν.,55,109,56,0.9821428571428571,1.9464285714285714
+qwen-2.5,R05,reasoning,english,base,,If the price rises fewer buyers may come.,41,41,9,4.555555555555555,4.555555555555555
+qwen-2.5,R05,reasoning,modern_standard_chinese,base,,如果價格上升就可能有較少買家來.,16,46,12,1.3333333333333333,3.8333333333333335
+qwen-2.5,R05,reasoning,classical_chinese,base,,價升則買者或少.,8,22,8,1.0,2.75
+qwen-2.5,R05,reasoning,classical_latin,base,,Si pretium crescit pauciores emptores venire possunt.,53,53,15,3.533333333333333,3.533333333333333
+qwen-2.5,R05,reasoning,attic_greek,base,,Ἂν ἡ τιμὴ αὔξηται ἐλάττους ἀγορασταὶ ἥξουσιν.,45,91,45,1.0,2.022222222222222
+qwen-2.5,R06,reasoning,english,base,,Every metal in this box is heavy. This coin is in the box. Therefore this coin is heavy.,88,88,21,4.190476190476191,4.190476190476191
+qwen-2.5,R06,reasoning,modern_standard_chinese,base,,這個盒中的每塊金屬都很重.這枚硬幣在盒中.因此這枚硬幣很重.,30,84,26,1.1538461538461537,3.230769230769231
+qwen-2.5,R06,reasoning,classical_chinese,base,,此匣之金皆重.此錢在匣.故此錢重.,17,45,17,1.0,2.6470588235294117
+qwen-2.5,R06,reasoning,classical_latin,base,,Omne metallum in hac arca grave est. Hic nummus in arca est. Igitur hic nummus gravis est.,90,90,30,3.0,3.0
+qwen-2.5,R06,reasoning,attic_greek,base,,Πᾶν μέταλλον ἐν τῇ κιβωτῷ βαρύ ἐστιν. Τοῦτο τὸ νόμισμα ἐν τῇ κιβωτῷ ἐστιν. Οὖν τοῦτο τὸ νόμισμα βαρύ ἐστιν.,107,207,100,1.07,2.07
+qwen-2.5,R07,reasoning,english,base,,The garden needs water because the leaves are dry.,50,50,10,5.0,5.0
+qwen-2.5,R07,reasoning,modern_standard_chinese,base,,花園需要水因為葉子乾了.,12,34,10,1.2,3.4
+qwen-2.5,R07,reasoning,classical_chinese,base,,園須水以葉枯.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,R07,reasoning,classical_latin,base,,Hortus aquam eget quod folia arida sunt.,40,40,14,2.857142857142857,2.857142857142857
+qwen-2.5,R07,reasoning,attic_greek,base,,Ὁ κῆπος ὕδατος δεῖται ὅτι τὰ φύλλα ξηρὰ ἐστιν.,46,91,44,1.0454545454545454,2.0681818181818183
+qwen-2.5,R08,reasoning,english,base,,If you leave now you will arrive before noon.,45,45,10,4.5,4.5
+qwen-2.5,R08,reasoning,modern_standard_chinese,base,,如果你現在離開就會在中午前到達.,16,46,10,1.6,4.6
+qwen-2.5,R08,reasoning,classical_chinese,base,,今去則午前至.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,R08,reasoning,classical_latin,base,,Si nunc discedis ante meridiem pervenies.,41,41,14,2.9285714285714284,2.9285714285714284
+qwen-2.5,R08,reasoning,attic_greek,base,,Ἂν νῦν ἀπίῃς πρὸ μεσημβρίας ἀφίξῃ.,34,69,34,1.0,2.0294117647058822
+qwen-2.5,R09,reasoning,english,base,,The map is useful because it shows the shortest path.,53,53,11,4.818181818181818,4.818181818181818
+qwen-2.5,R09,reasoning,modern_standard_chinese,base,,地圖很有用因為它顯示最短的路徑.,16,46,13,1.2307692307692308,3.5384615384615383
+qwen-2.5,R09,reasoning,classical_chinese,base,,圖有用以示最短途.,9,25,8,1.125,3.125
+qwen-2.5,R09,reasoning,classical_latin,base,,Tabula utilis est quod viam brevissimam ostendit.,49,49,17,2.8823529411764706,2.8823529411764706
+qwen-2.5,R09,reasoning,attic_greek,base,,Ὁ χάρτης χρήσιμος ἐστὶν ὅτι τὴν βραχυτάτην ὁδὸν δείκνυσιν.,58,114,58,1.0,1.9655172413793103
+qwen-2.5,R10,reasoning,english,base,,Because it snowed during the night the roof is white.,53,53,12,4.416666666666667,4.416666666666667
+qwen-2.5,R10,reasoning,modern_standard_chinese,base,,因為夜裡下雪屋頂是白色的.,13,37,10,1.3,3.7
+qwen-2.5,R10,reasoning,classical_chinese,base,,夜雪故屋頂白.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,R10,reasoning,classical_latin,base,,Quia nocte ninxit tectum album est.,35,35,12,2.9166666666666665,2.9166666666666665
+qwen-2.5,R10,reasoning,attic_greek,base,,Ἐπειδὴ νυκτὸς ἔνιψεν ἡ στέγη λευκή ἐστιν.,41,81,41,1.0,1.975609756097561
+qwen-2.5,R11,reasoning,english,base,,If one witness disagrees the judge must examine the evidence again.,67,67,12,5.583333333333333,5.583333333333333
+qwen-2.5,R11,reasoning,modern_standard_chinese,base,,如果一位證人不同意法官必須再次檢驗證據.,20,58,13,1.5384615384615385,4.461538461538462
+qwen-2.5,R11,reasoning,classical_chinese,base,,一證異言則判官必再察證.,12,34,12,1.0,2.8333333333333335
+qwen-2.5,R11,reasoning,classical_latin,base,,Si unus testis dissentit iudex testimonia iterum examinare debet.,65,65,19,3.4210526315789473,3.4210526315789473
+qwen-2.5,R11,reasoning,attic_greek,base,,Ἂν εἷς μάρτυς ἀντιλέγῃ ὁ δικαστὴς τὰ τεκμήρια πάλιν ἐξετάζειν δεῖ.,66,130,63,1.0476190476190477,2.0634920634920637
+qwen-2.5,R12,reasoning,english,base,,The room is quiet because everyone has left.,44,44,9,4.888888888888889,4.888888888888889
+qwen-2.5,R12,reasoning,modern_standard_chinese,base,,房間很安靜因為所有人都離開了.,15,43,10,1.5,4.3
+qwen-2.5,R12,reasoning,classical_chinese,base,,室寂以眾皆去.,7,19,7,1.0,2.7142857142857144
+qwen-2.5,R12,reasoning,classical_latin,base,,Cubiculum quietum est quod omnes discesserunt.,46,46,15,3.066666666666667,3.066666666666667
+qwen-2.5,R12,reasoning,attic_greek,base,,Τὸ οἴκημα ἥσυχόν ἐστιν ὅτι πάντες ἀπελήλυθαν.,45,89,48,0.9375,1.8541666666666667
+qwen-2.5,R13,reasoning,english,base,,If the message is unclear ask the speaker to explain it.,56,56,12,4.666666666666667,4.666666666666667
+qwen-2.5,R13,reasoning,modern_standard_chinese,base,,如果訊息不清楚請要求說話的人解釋它.,18,52,11,1.6363636363636365,4.7272727272727275
+qwen-2.5,R13,reasoning,classical_chinese,base,,書不明則請言者釋之.,10,28,9,1.1111111111111112,3.111111111111111
+qwen-2.5,R13,reasoning,classical_latin,base,,Si nuntius obscurus est roga dicentem ut eum explicet.,54,54,19,2.8421052631578947,2.8421052631578947
+qwen-2.5,R13,reasoning,attic_greek,base,,Ἂν τὸ γράμμα ἀσαφὲς ᾖ τὸν λέγοντα κέλευε αὐτὸ σαφηνίζειν.,57,112,53,1.0754716981132075,2.1132075471698113
+qwen-2.5,R14,reasoning,english,base,,Because the river is shallow the boat cannot pass here.,55,55,11,5.0,5.0
+qwen-2.5,R14,reasoning,modern_standard_chinese,base,,因為河淺船不能從這裡通過.,13,37,9,1.4444444444444444,4.111111111111111
+qwen-2.5,R14,reasoning,classical_chinese,base,,河淺故舟不得過此.,9,25,8,1.125,3.125
+qwen-2.5,R14,reasoning,classical_latin,base,,Quia flumen vadosum est navis hic transire non potest.,54,54,17,3.176470588235294,3.176470588235294
+qwen-2.5,R14,reasoning,attic_greek,base,,Ἐπειδὴ ὁ ποταμὸς ρηχὸς ἐστιν τὸ πλοῖον ἐνθάδε διελθεῖν οὐ δύναται.,66,132,63,1.0476190476190477,2.0952380952380953
+qwen-2.5,R15,reasoning,english,base,,If two quantities equal the same number they equal each other.,62,62,12,5.166666666666667,5.166666666666667
+qwen-2.5,R15,reasoning,modern_standard_chinese,base,,如果兩個量等於同一個數它們彼此相等.,18,52,14,1.2857142857142858,3.7142857142857144
+qwen-2.5,R15,reasoning,classical_chinese,base,,二量同等一數則相等.,10,28,9,1.1111111111111112,3.111111111111111
+qwen-2.5,R15,reasoning,classical_latin,base,,Si duae quantitates eidem numero aequales sunt inter se aequales sunt.,70,70,19,3.6842105263157894,3.6842105263157894
+qwen-2.5,R15,reasoning,attic_greek,base,,Ἂν δύο ποσὰ τῷ αὐτῷ ἀριθμῷ ἴσα ᾖ ἀλλήλοις ἴσα ἐστίν.,52,105,55,0.9454545454545454,1.9090909090909092
+mistral-7b,E01,everyday,english,base,,The child opened the door.,26,26,6,4.333333333333333,4.333333333333333
+mistral-7b,E01,everyday,modern_standard_chinese,base,,孩子打開了門.,7,19,8,0.875,2.375
+mistral-7b,E01,everyday,classical_chinese,base,,童啟門.,4,10,7,0.5714285714285714,1.4285714285714286
+mistral-7b,E01,everyday,classical_latin,base,,Puer ianuam aperuit.,20,20,10,2.0,2.0
+mistral-7b,E01,everyday,attic_greek,base,,Ὁ παῖς τὴν θύραν ἤνοιξε.,24,47,29,0.8275862068965517,1.6206896551724137
+mistral-7b,E02,everyday,english,base,,My friend brought fresh bread.,30,30,6,5.0,5.0
+mistral-7b,E02,everyday,modern_standard_chinese,base,,我的朋友帶來了新鮮的麵包.,13,37,22,0.5909090909090909,1.6818181818181819
+mistral-7b,E02,everyday,classical_chinese,base,,友攜新麵包至.,7,19,12,0.5833333333333334,1.5833333333333333
+mistral-7b,E02,everyday,classical_latin,base,,Amicus meus panem recentem attulit.,35,35,12,2.9166666666666665,2.9166666666666665
+mistral-7b,E02,everyday,attic_greek,base,,Ὁ φίλος μου ἄρτον πρόσφατον ἤνεγκεν.,36,69,41,0.8780487804878049,1.6829268292682926
+mistral-7b,E03,everyday,english,base,,We waited beside the river until sunset.,40,40,9,4.444444444444445,4.444444444444445
+mistral-7b,E03,everyday,modern_standard_chinese,base,,我們在河邊等到日落.,10,28,13,0.7692307692307693,2.1538461538461537
+mistral-7b,E03,everyday,classical_chinese,base,,吾等河畔至日暮.,8,22,15,0.5333333333333333,1.4666666666666666
+mistral-7b,E03,everyday,classical_latin,base,,Ad fluminis ripam usque ad solis occasum exspectavimus.,55,55,19,2.8947368421052633,2.8947368421052633
+mistral-7b,E03,everyday,attic_greek,base,,Παρὰ τῷ ποταμῷ μέχρι δυσμῶν ἡλίου ἐμείναμεν.,44,87,49,0.8979591836734694,1.7755102040816326
+mistral-7b,E04,everyday,english,base,,The dog found its ball under the table.,39,39,9,4.333333333333333,4.333333333333333
+mistral-7b,E04,everyday,modern_standard_chinese,base,,狗在桌下找到了自己的球.,12,34,17,0.7058823529411765,2.0
+mistral-7b,E04,everyday,classical_chinese,base,,犬於幾下得其球.,8,22,13,0.6153846153846154,1.6923076923076923
+mistral-7b,E04,everyday,classical_latin,base,,Canis pilam suam sub mensa invenit.,35,35,13,2.6923076923076925,2.6923076923076925
+mistral-7b,E04,everyday,attic_greek,base,,Ὁ κύων τὴν ἑαυτοῦ σφαῖραν ὑπὸ τῇ τραπέζῃ εὗρεν.,47,95,60,0.7833333333333333,1.5833333333333333
+mistral-7b,E05,everyday,english,base,,She wrote a short letter to her sister.,39,39,9,4.333333333333333,4.333333333333333
+mistral-7b,E05,everyday,modern_standard_chinese,base,,她給姐姐寫了一封短信.,11,31,20,0.55,1.55
+mistral-7b,E05,everyday,classical_chinese,base,,她書短牘與姊.,7,19,12,0.5833333333333334,1.5833333333333333
+mistral-7b,E05,everyday,classical_latin,base,,Ea sorori suae epistulam brevem scripsit.,41,41,18,2.2777777777777777,2.2777777777777777
+mistral-7b,E05,everyday,attic_greek,base,,Αὕτη γράμμα βραχὺ τῇ ἀδελφῇ ἔγραψεν.,36,72,45,0.8,1.6
+mistral-7b,E06,everyday,english,base,,Rain began shortly after lunch.,31,31,6,5.166666666666667,5.166666666666667
+mistral-7b,E06,everyday,modern_standard_chinese,base,,午飯後不久開始下雨.,10,28,13,0.7692307692307693,2.1538461538461537
+mistral-7b,E06,everyday,classical_chinese,base,,食後未幾雨作.,7,19,10,0.7,1.9
+mistral-7b,E06,everyday,classical_latin,base,,Paulo post prandium pluvia coepit.,34,34,12,2.8333333333333335,2.8333333333333335
+mistral-7b,E06,everyday,attic_greek,base,,Μετὰ τὸ ἄριστον ὀλίγῳ ὕστερον ὑετὸς ἤρξατο.,43,88,54,0.7962962962962963,1.6296296296296295
+mistral-7b,E07,everyday,english,base,,The old merchant counted the coins twice.,41,41,8,5.125,5.125
+mistral-7b,E07,everyday,modern_standard_chinese,base,,老商人數了兩次錢幣.,10,28,15,0.6666666666666666,1.8666666666666667
+mistral-7b,E07,everyday,classical_chinese,base,,老賈再數其錢.,7,19,10,0.7,1.9
+mistral-7b,E07,everyday,classical_latin,base,,Mercator senex nummos bis numeravit.,36,36,11,3.272727272727273,3.272727272727273
+mistral-7b,E07,everyday,attic_greek,base,,Ὁ γέρων ἔμπορος τὰ νομίσματα δίς ἠρίθμησεν.,43,83,48,0.8958333333333334,1.7291666666666667
+mistral-7b,E08,everyday,english,base,,They planted three trees behind the house.,42,42,8,5.25,5.25
+mistral-7b,E08,everyday,modern_standard_chinese,base,,他們在屋後種了三棵樹.,11,31,16,0.6875,1.9375
+mistral-7b,E08,everyday,classical_chinese,base,,眾植三樹於屋後.,8,22,15,0.5333333333333333,1.4666666666666666
+mistral-7b,E08,everyday,classical_latin,base,,Tres arbores post domum plantaverunt.,37,37,12,3.0833333333333335,3.0833333333333335
+mistral-7b,E08,everyday,attic_greek,base,,Τρία δένδρα ὄπισθεν τῆς οἰκίας ἐφύτευσαν.,41,80,44,0.9318181818181818,1.8181818181818181
+mistral-7b,E09,everyday,english,base,,I forgot the key at home.,25,25,7,3.5714285714285716,3.5714285714285716
+mistral-7b,E09,everyday,modern_standard_chinese,base,,我把鑰匙忘在家裡了.,10,28,15,0.6666666666666666,1.8666666666666667
+mistral-7b,E09,everyday,classical_chinese,base,,吾遺鑰於家.,6,16,13,0.46153846153846156,1.2307692307692308
+mistral-7b,E09,everyday,classical_latin,base,,Clavem domi oblitus sum.,24,24,10,2.4,2.4
+mistral-7b,E09,everyday,attic_greek,base,,Ἐπελαθόμην τῆς κλειδὸς οἴκοι.,29,58,34,0.8529411764705882,1.7058823529411764
+mistral-7b,E10,everyday,english,base,,The teacher praised the careful student.,40,40,7,5.714285714285714,5.714285714285714
+mistral-7b,E10,everyday,modern_standard_chinese,base,,老師稱讚了認真的學生.,11,31,14,0.7857142857142857,2.2142857142857144
+mistral-7b,E10,everyday,classical_chinese,base,,師譽勤學者.,6,16,11,0.5454545454545454,1.4545454545454546
+mistral-7b,E10,everyday,classical_latin,base,,Magister discipulum diligentem laudavit.,40,40,13,3.076923076923077,3.076923076923077
+mistral-7b,E10,everyday,attic_greek,base,,Ὁ διδάσκαλος τὸν ἐπιμελῆ μαθητὴν ἐπῄνεσεν.,42,85,47,0.8936170212765957,1.8085106382978724
+mistral-7b,E11,everyday,english,base,,Our neighbour sold a blue cloak yesterday.,42,42,9,4.666666666666667,4.666666666666667
+mistral-7b,E11,everyday,modern_standard_chinese,base,,我們的鄰居昨天賣了一件藍色斗篷.,16,46,27,0.5925925925925926,1.7037037037037037
+mistral-7b,E11,everyday,classical_chinese,base,,鄰人昨售青衣.,7,19,12,0.5833333333333334,1.5833333333333333
+mistral-7b,E11,everyday,classical_latin,base,,Vicinus noster heri pallium caeruleum vendidit.,47,47,17,2.764705882352941,2.764705882352941
+mistral-7b,E11,everyday,attic_greek,base,,Ὁ γείτων ἡμῶν χλαμύδα κυανῆν χθὲς ἀπέδοτο.,42,83,47,0.8936170212765957,1.7659574468085106
+mistral-7b,E12,everyday,english,base,,The boat crossed the lake before dark.,38,38,8,4.75,4.75
+mistral-7b,E12,everyday,modern_standard_chinese,base,,船在天黑前渡過了湖.,10,28,11,0.9090909090909091,2.5454545454545454
+mistral-7b,E12,everyday,classical_chinese,base,,舟昏前濟湖.,6,16,13,0.46153846153846156,1.2307692307692308
+mistral-7b,E12,everyday,classical_latin,base,,Navis lacum ante noctem transiit.,33,33,12,2.75,2.75
+mistral-7b,E12,everyday,attic_greek,base,,Πλοῖον τὴν λίμνην πρὸ νυκτὸς διέπλευσεν.,40,78,41,0.975609756097561,1.9024390243902438
+mistral-7b,E13,everyday,english,base,,He placed the cup near the window.,34,34,8,4.25,4.25
+mistral-7b,E13,everyday,modern_standard_chinese,base,,他把杯子放在窗邊.,9,25,14,0.6428571428571429,1.7857142857142858
+mistral-7b,E13,everyday,classical_chinese,base,,彼置杯於牖旁.,7,19,16,0.4375,1.1875
+mistral-7b,E13,everyday,classical_latin,base,,Ille poculum prope fenestram posuit.,36,36,12,3.0,3.0
+mistral-7b,E13,everyday,attic_greek,base,,Ἐκεῖνος ποτήριον παρὰ τῇ θυρίδι ἔθηκεν.,39,77,44,0.8863636363636364,1.75
+mistral-7b,E14,everyday,english,base,,Many people gathered in the market.,35,35,7,5.0,5.0
+mistral-7b,E14,everyday,modern_standard_chinese,base,,許多人聚集在市場.,9,25,10,0.9,2.5
+mistral-7b,E14,everyday,classical_chinese,base,,眾集於市.,5,13,8,0.625,1.625
+mistral-7b,E14,everyday,classical_latin,base,,Multi homines in foro congregati sunt.,38,38,11,3.4545454545454546,3.4545454545454546
+mistral-7b,E14,everyday,attic_greek,base,,Πολλοὶ ἄνθρωποι ἐν ἀγορᾷ συνήχθησαν.,36,72,39,0.9230769230769231,1.8461538461538463
+mistral-7b,E15,everyday,english,base,,The small lamp burned all night.,32,32,7,4.571428571428571,4.571428571428571
+mistral-7b,E15,everyday,modern_standard_chinese,base,,小燈整夜燃著.,7,19,12,0.5833333333333334,1.5833333333333333
+mistral-7b,E15,everyday,classical_chinese,base,,小燈竟夜燃.,6,16,13,0.46153846153846156,1.2307692307692308
+mistral-7b,E15,everyday,classical_latin,base,,Lucerna parva tota nocte arsit.,31,31,13,2.3846153846153846,2.3846153846153846
+mistral-7b,E15,everyday,attic_greek,base,,Ὁ μικρὸς λύχνος διὰ πάσης νυκτὸς ἔκαιεν.,40,78,43,0.9302325581395349,1.813953488372093
+mistral-7b,I01,instruction,english,base,,Close the door before leaving the room.,39,39,8,4.875,4.875
+mistral-7b,I01,instruction,modern_standard_chinese,base,,離開房間前關門.,8,22,9,0.8888888888888888,2.4444444444444446
+mistral-7b,I01,instruction,classical_chinese,base,,出室先闔門.,6,16,9,0.6666666666666666,1.7777777777777777
+mistral-7b,I01,instruction,classical_latin,base,,Ante discessum e cubiculo ianuam claude.,40,40,16,2.5,2.5
+mistral-7b,I01,instruction,attic_greek,base,,Πρὶν ἐξέλθῃς ἐκ τοῦ οἰκήματος τὴν θύραν κλεῖε.,46,92,49,0.9387755102040817,1.8775510204081634
+mistral-7b,I02,instruction,english,base,,Read the whole message before replying.,39,39,8,4.875,4.875
+mistral-7b,I02,instruction,modern_standard_chinese,base,,回覆前讀完整條訊息.,10,28,15,0.6666666666666666,1.8666666666666667
+mistral-7b,I02,instruction,classical_chinese,base,,答前盡讀其書.,7,19,12,0.5833333333333334,1.5833333333333333
+mistral-7b,I02,instruction,classical_latin,base,,Totum nuntium lege antequam respondeas.,39,39,14,2.7857142857142856,2.7857142857142856
+mistral-7b,I02,instruction,attic_greek,base,,Ὅλον τὸ γράμμα ἀνάγνωθι πρὶν ἀποκρίνεσθαι.,42,83,45,0.9333333333333333,1.8444444444444446
+mistral-7b,I03,instruction,english,base,,Put the clean plates on the shelf.,34,34,8,4.25,4.25
+mistral-7b,I03,instruction,modern_standard_chinese,base,,把乾淨的盤子放在架子上.,12,34,19,0.631578947368421,1.7894736842105263
+mistral-7b,I03,instruction,classical_chinese,base,,置淨盤於架.,6,16,11,0.5454545454545454,1.4545454545454546
+mistral-7b,I03,instruction,classical_latin,base,,Patinas mundas in pluteo pone.,30,30,12,2.5,2.5
+mistral-7b,I03,instruction,attic_greek,base,,Τὰ καθαρὰ πινάκια ἐπὶ τὴν ἐσχάραν τίθει.,40,79,41,0.975609756097561,1.9268292682926829
+mistral-7b,I04,instruction,english,base,,If rain starts go under a roof.,31,31,8,3.875,3.875
+mistral-7b,I04,instruction,modern_standard_chinese,base,,如果開始下雨就到屋簷下.,12,34,15,0.8,2.2666666666666666
+mistral-7b,I04,instruction,classical_chinese,base,,雨作則就簷.,6,16,9,0.6666666666666666,1.7777777777777777
+mistral-7b,I04,instruction,classical_latin,base,,Si pluvia incipit sub tectum i.,31,31,13,2.3846153846153846,2.3846153846153846
+mistral-7b,I04,instruction,attic_greek,base,,Ἂν ὑετὸς ἄρχηται ὑπὸ στέγην ἴθι.,32,65,41,0.7804878048780488,1.5853658536585367
+mistral-7b,I05,instruction,english,base,,Do not move the box without help.,33,33,8,4.125,4.125
+mistral-7b,I05,instruction,modern_standard_chinese,base,,沒有幫助不要搬箱子.,10,28,15,0.6666666666666666,1.8666666666666667
+mistral-7b,I05,instruction,classical_chinese,base,,無助勿移箱.,6,16,9,0.6666666666666666,1.7777777777777777
+mistral-7b,I05,instruction,classical_latin,base,,Arcam sine auxilio ne moveas.,29,29,10,2.9,2.9
+mistral-7b,I05,instruction,attic_greek,base,,Μὴ κίνει τὴν κιβωτὸν ἄνευ βοηθείας.,35,68,36,0.9722222222222222,1.8888888888888888
+mistral-7b,I06,instruction,english,base,,Write the date at the top of the page.,38,38,10,3.8,3.8
+mistral-7b,I06,instruction,modern_standard_chinese,base,,在頁面頂端寫下日期.,10,28,15,0.6666666666666666,1.8666666666666667
+mistral-7b,I06,instruction,classical_chinese,base,,書日於頁首.,6,16,7,0.8571428571428571,2.2857142857142856
+mistral-7b,I06,instruction,classical_latin,base,,Diem in summa pagina scribe.,28,28,9,3.111111111111111,3.111111111111111
+mistral-7b,I06,instruction,attic_greek,base,,Τὴν ἡμέραν ἐν ἄκρᾳ σελίδι γράφε.,32,63,35,0.9142857142857143,1.8
+mistral-7b,I07,instruction,english,base,,Turn left after the bridge.,27,27,6,4.5,4.5
+mistral-7b,I07,instruction,modern_standard_chinese,base,,過橋後左轉.,6,16,7,0.8571428571428571,2.2857142857142856
+mistral-7b,I07,instruction,classical_chinese,base,,過橋左行.,5,13,6,0.8333333333333334,2.1666666666666665
+mistral-7b,I07,instruction,classical_latin,base,,Post pontem ad laevam verte.,28,28,10,2.8,2.8
+mistral-7b,I07,instruction,attic_greek,base,,Μετὰ τὴν γέφυραν ἐπ᾽ ἀριστερὰ στρέφου.,38,76,41,0.926829268292683,1.853658536585366
+mistral-7b,I08,instruction,english,base,,Give each guest a cup of water.,31,31,8,3.875,3.875
+mistral-7b,I08,instruction,modern_standard_chinese,base,,給每位客人一杯水.,9,25,14,0.6428571428571429,1.7857142857142858
+mistral-7b,I08,instruction,classical_chinese,base,,賓各與一杯水.,7,19,12,0.5833333333333334,1.5833333333333333
+mistral-7b,I08,instruction,classical_latin,base,,Cuique hospiti poculum aquae da.,32,32,10,3.2,3.2
+mistral-7b,I08,instruction,attic_greek,base,,Ἑκάστῳ ξένῳ ποτήριον ὕδατος δίδου.,34,67,43,0.7906976744186046,1.558139534883721
+mistral-7b,I09,instruction,english,base,,Check the numbers twice before sending the report.,50,50,9,5.555555555555555,5.555555555555555
+mistral-7b,I09,instruction,modern_standard_chinese,base,,寄送報告前核對數字兩次.,12,34,15,0.8,2.2666666666666666
+mistral-7b,I09,instruction,classical_chinese,base,,發報前再校數.,7,19,8,0.875,2.375
+mistral-7b,I09,instruction,classical_latin,base,,Numeros bis examina antequam relationem mittas.,47,47,14,3.357142857142857,3.357142857142857
+mistral-7b,I09,instruction,attic_greek,base,,Τοὺς ἀριθμοὺς δίς ἐξέταζε πρὶν τὸν λόγον πέμπειν.,49,96,54,0.9074074074074074,1.7777777777777777
+mistral-7b,I10,instruction,english,base,,Keep medicine away from children.,33,33,6,5.5,5.5
+mistral-7b,I10,instruction,modern_standard_chinese,base,,讓藥物遠離兒童.,8,22,17,0.47058823529411764,1.2941176470588236
+mistral-7b,I10,instruction,classical_chinese,base,,藥遠童.,4,10,9,0.4444444444444444,1.1111111111111112
+mistral-7b,I10,instruction,classical_latin,base,,Medicamentum procul a pueris serva.,35,35,12,2.9166666666666665,2.9166666666666665
+mistral-7b,I10,instruction,attic_greek,base,,Τὸ φάρμακον πόρρω τῶν παίδων φύλαττε.,37,70,38,0.9736842105263158,1.8421052631578947
+mistral-7b,I11,instruction,english,base,,Wait here until the guard returns.,34,34,7,4.857142857142857,4.857142857142857
+mistral-7b,I11,instruction,modern_standard_chinese,base,,在此等待直到守衛回來.,11,31,12,0.9166666666666666,2.5833333333333335
+mistral-7b,I11,instruction,classical_chinese,base,,待此至衛返.,6,16,7,0.8571428571428571,2.2857142857142856
+mistral-7b,I11,instruction,classical_latin,base,,Hic exspecta donec custos redeat.,33,33,12,2.75,2.75
+mistral-7b,I11,instruction,attic_greek,base,,Ἐνθάδε μένε μέχρι ἂν ὁ φύλαξ ἐπανέλθῃ.,38,74,45,0.8444444444444444,1.6444444444444444
+mistral-7b,I12,instruction,english,base,,Use a pencil to mark the answer.,32,32,9,3.5555555555555554,3.5555555555555554
+mistral-7b,I12,instruction,modern_standard_chinese,base,,用鉛筆標記答案.,8,22,13,0.6153846153846154,1.6923076923076923
+mistral-7b,I12,instruction,classical_chinese,base,,以鉛筆識答.,6,16,13,0.46153846153846156,1.2307692307692308
+mistral-7b,I12,instruction,classical_latin,base,,Stilo plumbeo responsum nota.,29,29,11,2.6363636363636362,2.6363636363636362
+mistral-7b,I12,instruction,attic_greek,base,,Μολυβδίῳ τὴν ἀπόκρισιν σημεῖου.,31,62,34,0.9117647058823529,1.8235294117647058
+mistral-7b,I13,instruction,english,base,,If the flag is red stop.,24,24,7,3.4285714285714284,3.4285714285714284
+mistral-7b,I13,instruction,modern_standard_chinese,base,,如果旗子是紅色就停下.,11,31,14,0.7857142857142857,2.2142857142857144
+mistral-7b,I13,instruction,classical_chinese,base,,旗赤則止.,5,13,6,0.8333333333333334,2.1666666666666665
+mistral-7b,I13,instruction,classical_latin,base,,Si vexillum rubrum est consiste.,32,32,11,2.909090909090909,2.909090909090909
+mistral-7b,I13,instruction,attic_greek,base,,Ἂν τὸ σημεῖον ἐρυθρὸν ᾖ στῆθι.,30,61,35,0.8571428571428571,1.7428571428571429
+mistral-7b,I14,instruction,english,base,,Tell me immediately if a problem occurs.,40,40,8,5.0,5.0
+mistral-7b,I14,instruction,modern_standard_chinese,base,,如果出現問題立即告訴我.,12,34,15,0.8,2.2666666666666666
+mistral-7b,I14,instruction,classical_chinese,base,,有患即告我.,6,16,9,0.6666666666666666,1.7777777777777777
+mistral-7b,I14,instruction,classical_latin,base,,Si difficultas oritur statim mihi dic.,38,38,13,2.923076923076923,2.923076923076923
+mistral-7b,I14,instruction,attic_greek,base,,Ἂν δυσχέρεια γένηται εὐθὺς μοι φράζε.,37,71,42,0.8809523809523809,1.6904761904761905
+mistral-7b,I15,instruction,english,base,,Wash your hands before the meal.,32,32,8,4.0,4.0
+mistral-7b,I15,instruction,modern_standard_chinese,base,,用餐前洗手.,6,16,9,0.6666666666666666,1.7777777777777777
+mistral-7b,I15,instruction,classical_chinese,base,,食前盥手.,5,13,8,0.625,1.625
+mistral-7b,I15,instruction,classical_latin,base,,Manus lava ante cibum.,22,22,9,2.4444444444444446,2.4444444444444446
+mistral-7b,I15,instruction,attic_greek,base,,Τὰς χεῖρας πλῦνον πρὸ τοῦ δείπνου.,34,67,35,0.9714285714285714,1.9142857142857144
+mistral-7b,R01,reasoning,english,base,,If the road is wet the carriage will travel slowly.,51,51,11,4.636363636363637,4.636363636363637
+mistral-7b,R01,reasoning,modern_standard_chinese,base,,如果道路濕了車就會走得慢.,13,37,16,0.8125,2.3125
+mistral-7b,R01,reasoning,classical_chinese,base,,道濕則車徐行.,7,19,10,0.7,1.9
+mistral-7b,R01,reasoning,classical_latin,base,,Si via umida est currus lente procedet.,39,39,12,3.25,3.25
+mistral-7b,R01,reasoning,attic_greek,base,,Ἂν ἡ ὁδὸς ὑγρὰ ᾖ τὸ ἅρμα βραδέως πορεύσεται.,44,88,53,0.8301886792452831,1.6603773584905661
+mistral-7b,R02,reasoning,english,base,,The jar broke because it fell from the table.,45,45,10,4.5,4.5
+mistral-7b,R02,reasoning,modern_standard_chinese,base,,罐子因為從桌上掉下來而碎了.,14,40,19,0.7368421052631579,2.1052631578947367
+mistral-7b,R02,reasoning,classical_chinese,base,,罌墮幾故碎.,6,16,13,0.46153846153846156,1.2307692307692308
+mistral-7b,R02,reasoning,classical_latin,base,,Urceus fractus est quod de mensa cecidit.,41,41,16,2.5625,2.5625
+mistral-7b,R02,reasoning,attic_greek,base,,Ἡ χύτρα συνέτριβη ὅτι ἀπὸ τῆς τραπέζης ἔπεσεν.,46,90,51,0.9019607843137255,1.7647058823529411
+mistral-7b,R03,reasoning,english,base,,If all gates are closed no visitor may enter.,45,45,10,4.5,4.5
+mistral-7b,R03,reasoning,modern_standard_chinese,base,,如果所有大門都關上就沒有訪客能進來.,18,52,21,0.8571428571428571,2.4761904761904763
+mistral-7b,R03,reasoning,classical_chinese,base,,諸門皆閉則客不得入.,10,28,15,0.6666666666666666,1.8666666666666667
+mistral-7b,R03,reasoning,classical_latin,base,,Si omnes portae clausae sunt nullus hospes intrare potest.,58,58,19,3.0526315789473686,3.0526315789473686
+mistral-7b,R03,reasoning,attic_greek,base,,Ἂν πᾶσαι αἱ πύλαι κεκλεισμέναι ὦσιν οὐδεὶς ξένος εἰσελθεῖν δύναται.,67,132,76,0.881578947368421,1.736842105263158
+mistral-7b,R04,reasoning,english,base,,The lamp is dim because the oil is nearly gone.,47,47,11,4.2727272727272725,4.2727272727272725
+mistral-7b,R04,reasoning,modern_standard_chinese,base,,燈光昏暗因為油快用完了.,12,34,17,0.7058823529411765,2.0
+mistral-7b,R04,reasoning,classical_chinese,base,,燈昏以油將竭.,7,19,14,0.5,1.3571428571428572
+mistral-7b,R04,reasoning,classical_latin,base,,Lucerna obscura est quod oleum paene defecit.,45,45,16,2.8125,2.8125
+mistral-7b,R04,reasoning,attic_greek,base,,Ὁ λύχνος ἀμαυρός ἐστιν ὅτι τὸ ἔλαιον σχεδὸν ἐκλέλοιπεν.,55,109,60,0.9166666666666666,1.8166666666666667
+mistral-7b,R05,reasoning,english,base,,If the price rises fewer buyers may come.,41,41,10,4.1,4.1
+mistral-7b,R05,reasoning,modern_standard_chinese,base,,如果價格上升就可能有較少買家來.,16,46,23,0.6956521739130435,2.0
+mistral-7b,R05,reasoning,classical_chinese,base,,價升則買者或少.,8,22,13,0.6153846153846154,1.6923076923076923
+mistral-7b,R05,reasoning,classical_latin,base,,Si pretium crescit pauciores emptores venire possunt.,53,53,17,3.1176470588235294,3.1176470588235294
+mistral-7b,R05,reasoning,attic_greek,base,,Ἂν ἡ τιμὴ αὔξηται ἐλάττους ἀγορασταὶ ἥξουσιν.,45,91,52,0.8653846153846154,1.75
+mistral-7b,R06,reasoning,english,base,,Every metal in this box is heavy. This coin is in the box. Therefore this coin is heavy.,88,88,21,4.190476190476191,4.190476190476191
+mistral-7b,R06,reasoning,modern_standard_chinese,base,,這個盒中的每塊金屬都很重.這枚硬幣在盒中.因此這枚硬幣很重.,30,84,41,0.7317073170731707,2.048780487804878
+mistral-7b,R06,reasoning,classical_chinese,base,,此匣之金皆重.此錢在匣.故此錢重.,17,45,24,0.7083333333333334,1.875
+mistral-7b,R06,reasoning,classical_latin,base,,Omne metallum in hac arca grave est. Hic nummus in arca est. Igitur hic nummus gravis est.,90,90,32,2.8125,2.8125
+mistral-7b,R06,reasoning,attic_greek,base,,Πᾶν μέταλλον ἐν τῇ κιβωτῷ βαρύ ἐστιν. Τοῦτο τὸ νόμισμα ἐν τῇ κιβωτῷ ἐστιν. Οὖν τοῦτο τὸ νόμισμα βαρύ ἐστιν.,107,207,120,0.8916666666666667,1.725
+mistral-7b,R07,reasoning,english,base,,The garden needs water because the leaves are dry.,50,50,10,5.0,5.0
+mistral-7b,R07,reasoning,modern_standard_chinese,base,,花園需要水因為葉子乾了.,12,34,15,0.8,2.2666666666666666
+mistral-7b,R07,reasoning,classical_chinese,base,,園須水以葉枯.,7,19,10,0.7,1.9
+mistral-7b,R07,reasoning,classical_latin,base,,Hortus aquam eget quod folia arida sunt.,40,40,16,2.5,2.5
+mistral-7b,R07,reasoning,attic_greek,base,,Ὁ κῆπος ὕδατος δεῖται ὅτι τὰ φύλλα ξηρὰ ἐστιν.,46,91,53,0.8679245283018868,1.7169811320754718
+mistral-7b,R08,reasoning,english,base,,If you leave now you will arrive before noon.,45,45,10,4.5,4.5
+mistral-7b,R08,reasoning,modern_standard_chinese,base,,如果你現在離開就會在中午前到達.,16,46,17,0.9411764705882353,2.7058823529411766
+mistral-7b,R08,reasoning,classical_chinese,base,,今去則午前至.,7,19,8,0.875,2.375
+mistral-7b,R08,reasoning,classical_latin,base,,Si nunc discedis ante meridiem pervenies.,41,41,14,2.9285714285714284,2.9285714285714284
+mistral-7b,R08,reasoning,attic_greek,base,,Ἂν νῦν ἀπίῃς πρὸ μεσημβρίας ἀφίξῃ.,34,69,41,0.8292682926829268,1.6829268292682926
+mistral-7b,R09,reasoning,english,base,,The map is useful because it shows the shortest path.,53,53,12,4.416666666666667,4.416666666666667
+mistral-7b,R09,reasoning,modern_standard_chinese,base,,地圖很有用因為它顯示最短的路徑.,16,46,19,0.8421052631578947,2.4210526315789473
+mistral-7b,R09,reasoning,classical_chinese,base,,圖有用以示最短途.,9,25,10,0.9,2.5
+mistral-7b,R09,reasoning,classical_latin,base,,Tabula utilis est quod viam brevissimam ostendit.,49,49,17,2.8823529411764706,2.8823529411764706
+mistral-7b,R09,reasoning,attic_greek,base,,Ὁ χάρτης χρήσιμος ἐστὶν ὅτι τὴν βραχυτάτην ὁδὸν δείκνυσιν.,58,114,63,0.9206349206349206,1.8095238095238095
+mistral-7b,R10,reasoning,english,base,,Because it snowed during the night the roof is white.,53,53,12,4.416666666666667,4.416666666666667
+mistral-7b,R10,reasoning,modern_standard_chinese,base,,因為夜裡下雪屋頂是白色的.,13,37,16,0.8125,2.3125
+mistral-7b,R10,reasoning,classical_chinese,base,,夜雪故屋頂白.,7,19,10,0.7,1.9
+mistral-7b,R10,reasoning,classical_latin,base,,Quia nocte ninxit tectum album est.,35,35,13,2.6923076923076925,2.6923076923076925
+mistral-7b,R10,reasoning,attic_greek,base,,Ἐπειδὴ νυκτὸς ἔνιψεν ἡ στέγη λευκή ἐστιν.,41,81,44,0.9318181818181818,1.8409090909090908
+mistral-7b,R11,reasoning,english,base,,If one witness disagrees the judge must examine the evidence again.,67,67,13,5.153846153846154,5.153846153846154
+mistral-7b,R11,reasoning,modern_standard_chinese,base,,如果一位證人不同意法官必須再次檢驗證據.,20,58,31,0.6451612903225806,1.8709677419354838
+mistral-7b,R11,reasoning,classical_chinese,base,,一證異言則判官必再察證.,12,34,19,0.631578947368421,1.7894736842105263
+mistral-7b,R11,reasoning,classical_latin,base,,Si unus testis dissentit iudex testimonia iterum examinare debet.,65,65,20,3.25,3.25
+mistral-7b,R11,reasoning,attic_greek,base,,Ἂν εἷς μάρτυς ἀντιλέγῃ ὁ δικαστὴς τὰ τεκμήρια πάλιν ἐξετάζειν δεῖ.,66,130,73,0.9041095890410958,1.7808219178082192
+mistral-7b,R12,reasoning,english,base,,The room is quiet because everyone has left.,44,44,9,4.888888888888889,4.888888888888889
+mistral-7b,R12,reasoning,modern_standard_chinese,base,,房間很安靜因為所有人都離開了.,15,43,18,0.8333333333333334,2.388888888888889
+mistral-7b,R12,reasoning,classical_chinese,base,,室寂以眾皆去.,7,19,14,0.5,1.3571428571428572
+mistral-7b,R12,reasoning,classical_latin,base,,Cubiculum quietum est quod omnes discesserunt.,46,46,15,3.066666666666667,3.066666666666667
+mistral-7b,R12,reasoning,attic_greek,base,,Τὸ οἴκημα ἥσυχόν ἐστιν ὅτι πάντες ἀπελήλυθαν.,45,89,52,0.8653846153846154,1.7115384615384615
+mistral-7b,R13,reasoning,english,base,,If the message is unclear ask the speaker to explain it.,56,56,13,4.3076923076923075,4.3076923076923075
+mistral-7b,R13,reasoning,modern_standard_chinese,base,,如果訊息不清楚請要求說話的人解釋它.,18,52,23,0.782608695652174,2.260869565217391
+mistral-7b,R13,reasoning,classical_chinese,base,,書不明則請言者釋之.,10,28,13,0.7692307692307693,2.1538461538461537
+mistral-7b,R13,reasoning,classical_latin,base,,Si nuntius obscurus est roga dicentem ut eum explicet.,54,54,20,2.7,2.7
+mistral-7b,R13,reasoning,attic_greek,base,,Ἂν τὸ γράμμα ἀσαφὲς ᾖ τὸν λέγοντα κέλευε αὐτὸ σαφηνίζειν.,57,112,64,0.890625,1.75
+mistral-7b,R14,reasoning,english,base,,Because the river is shallow the boat cannot pass here.,55,55,11,5.0,5.0
+mistral-7b,R14,reasoning,modern_standard_chinese,base,,因為河淺船不能從這裡通過.,13,37,16,0.8125,2.3125
+mistral-7b,R14,reasoning,classical_chinese,base,,河淺故舟不得過此.,9,25,14,0.6428571428571429,1.7857142857142858
+mistral-7b,R14,reasoning,classical_latin,base,,Quia flumen vadosum est navis hic transire non potest.,54,54,18,3.0,3.0
+mistral-7b,R14,reasoning,attic_greek,base,,Ἐπειδὴ ὁ ποταμὸς ρηχὸς ἐστιν τὸ πλοῖον ἐνθάδε διελθεῖν οὐ δύναται.,66,132,69,0.9565217391304348,1.9130434782608696
+mistral-7b,R15,reasoning,english,base,,If two quantities equal the same number they equal each other.,62,62,12,5.166666666666667,5.166666666666667
+mistral-7b,R15,reasoning,modern_standard_chinese,base,,如果兩個量等於同一個數它們彼此相等.,18,52,23,0.782608695652174,2.260869565217391
+mistral-7b,R15,reasoning,classical_chinese,base,,二量同等一數則相等.,10,28,11,0.9090909090909091,2.5454545454545454
+mistral-7b,R15,reasoning,classical_latin,base,,Si duae quantitates eidem numero aequales sunt inter se aequales sunt.,70,70,23,3.0434782608695654,3.0434782608695654
+mistral-7b,R15,reasoning,attic_greek,base,,Ἂν δύο ποσὰ τῷ αὐτῷ ἀριθμῷ ἴσα ᾖ ἀλλήλοις ἴσα ἐστίν.,52,105,67,0.7761194029850746,1.5671641791044777
